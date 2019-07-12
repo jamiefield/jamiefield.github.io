@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  @fieldjamie               : &Twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
