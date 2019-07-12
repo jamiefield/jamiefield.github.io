@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Morgantown, WV"
   employer         : "https://business.wvu.edu/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=G3a-ALAAAAAJ&hl=en&oi=ao"
   email            : "james.field2@mail.wvu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jamiefield"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/itsnotfields/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
