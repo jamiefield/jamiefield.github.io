@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jamie Field"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Management at West Virginia University's John Chambers College of Business and Economics"
+  bio              : "Assistant Professor of Management at West Virginia University's [John Chambers College of Business and Economics](https://business.wvu.edu/)"
   location         : "Morgantown, WV"
-  employer         : [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=G3a-ALAAAAAJ&hl=en&oi=ao"
   email            : "james.field2@mail.wvu.edu"
