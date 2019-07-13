@@ -6,7 +6,8 @@ excerpt: 'Abstract: Open science refers to an array of practices that promote op
 date: 2019-07-01
 venue: 'Journal of Business and Psychology'
 paperurl: 'https://link.springer.com/article/10.1007%2Fs10869-018-9547-8'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+citation: 'Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rogelberg, S., G., & Rupp, D., E. (2019). Answers to 18 Questions About Open Science Practices. <i>Journal of Business and Psychology</i>, <i>34</i>, 257-250 1(1). doi: https://doi.org/10.1007/s10869-018-9547-8'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
