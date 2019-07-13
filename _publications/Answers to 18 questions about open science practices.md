@@ -1,5 +1,5 @@
 ---
-title: "insert number here: Answers to 18 questions about open science practices"
+title: "8: Answers to 18 questions about open science practices"
 collection: publications
 date: 2019-07-01
 venue: 'Journal of Business and Psychology'
