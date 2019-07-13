@@ -4,6 +4,6 @@ title: "Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. 
 collection: publications
 
 permalink: /research/answers-to-18-questions-about-open-science-practices
-
+-----
 
 
