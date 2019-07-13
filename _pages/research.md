@@ -1,9 +1,8 @@
 ---
 layout: archive
 title: "Research"
+title: "TEST"
 permalink: /research/
-
-TESTTESTEST
 author_profile: true
 ---
 
