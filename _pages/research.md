@@ -8,7 +8,7 @@ More to come soon...
 
 Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rogelberg, S., G., & Rupp, D., E. (2019). Answers to 18 Questions About Open Science Practices. <i>Journal of Business and Psychology</i>, <i>34</i>, 257-270. doi: [10.1007/s10869-018-9547-8](doi.org/10.1007/s10869-018-9547-8).
 
-a("Click here to download a sample CSV input data file, which can also be used to demonstrate Meta-Sen's functionality", href = "https://www.dropbox.com/s/ab4u94wu7cu5fyi/sampleData.csv?dl=1", target = "blank"),
+
 
 
 {% if author.googlescholar %}
