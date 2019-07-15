@@ -25,9 +25,7 @@ redirect_from:
         <ul class="ul-interests">
           
           <li>Statistics</li>
-          
           <li>Epidemiology</li>
-          
           <li>Child growth</li>
           
         </ul>
