@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-| Interests | Education |
-| ------------- | ------------- |
-| &#187; Organizational behavior  | TEST |
-| &#187; Human resource management  | TEST |
-| &#187; Organizational research methods  | TEST |
-
-<h3>Interests</h3>
-
 
 <section>
 
