@@ -9,7 +9,7 @@ redirect_from:
 
 | Interests |
 | ------------- |
-| <li>Statistics</li>  |
+| &#187;Statistics  |
 | <li>Statistics</li>  |
 
 | Second Header |
