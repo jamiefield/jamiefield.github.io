@@ -24,12 +24,11 @@ redirect_from:
         <h3>Interests</h3>
         <ul><li> Organizational behavior
         <li> Human resource management
-        <li> Organizational research methods
-        </li>
+        <li> Organizational research methods </ul></li>
         
-        </ul><h3>Education</h3>
+        <h3>Education</h3>
         <ul><li> TESTING
-        <li> TEST
+        <li> testing
         <li> TEST
         </li>
         
