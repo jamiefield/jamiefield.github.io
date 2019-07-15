@@ -25,7 +25,7 @@ redirect_from:
         <ul><li> Organizational behavior
         <li> Human resource management
         <li> Organizational research methods
-        </li>
+        </ul></li>
         
         <h3>Education</h3>
         <ul><li> TEST
