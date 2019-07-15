@@ -24,9 +24,9 @@ redirect_from:
         <h3>Interests</h3>
         <ul><li> Organizational behavior
         <li> Human resource management
-        <li> Organizational research methods </li>
+        <li> Organizational research methods 
         
-        </ul><h3>Education</h3>
+        </ul></li><h3>Education</h3>
         <ul><li> testing
         <li> testing
         <li> testing
