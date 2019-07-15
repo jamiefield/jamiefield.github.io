@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<a href="https://www.dropbox.com/s/amcqq538w02ef8p/James%20G%20Field_CV_July2019.pdf?dl=0">Click here to view a copy of my CV</a>
+
 **Manuscripts under review**
 
 Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Psychological Bulletin</i>.
