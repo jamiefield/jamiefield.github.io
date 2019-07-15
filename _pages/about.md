@@ -9,8 +9,9 @@ redirect_from:
 
 | Interests |
 | ------------- |
-| &#187;Statistics  |
-| <li>Statistics</li>  |
+| &#187; Organizational behavior  |
+| &#187; Human resource management  |
+| &#187; Organizational research methods  |
 
 | Second Header |
 | ------------- |
