@@ -4,6 +4,18 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+**Manuscripts under review**
+
+Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Psychological Bulletin</i>.
+
+Field, J. G., Kepes, S., Bosco F. A. (under second round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
+
+Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (preparing first revision).(Manuscript title hidden to preserve anonymous peer review process). <i>Advancement in Methods and Practices in Psychological Science</i>.
+
+Bosco, F. A., Field, J. G., Rubenstein, A. L., Kepes, S., Oswald, F. L., Uggerslev, K. L., Sheng, Zitong (under review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Management</i>.
+
+Field, J. G., Bosco, F. A., Kraichy, D., Uggerslev, K. L., Geiger, M. K. (under review). Manuscript title hidden to preserve anonymous peer review process. <i>Journal of International Business Studies</i>.
+
 **Published papers**
 
 8: Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rogelberg, S., G., & Rupp, D., E. (2019). Answers to 18 Questions About Open Science Practices. <i>Journal of Business and Psychology</i>, <i>34</i>, 257-270. doi: [10.1007/s10869-018-9547-8](https://doi.org/10.1007/s10869-018-9547-8).
