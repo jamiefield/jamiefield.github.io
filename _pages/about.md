@@ -21,7 +21,11 @@ redirect_from:
         <li>
         <i class="fa-li fa fa-graduation-cap"></i>
         <p> Ph. D. in Management, 2017</p>
-        <li> TESTING AGAIN </li>
+        <ul class="ul-edu fa-ul">
+        <li>
+        <i class="fa-li fa fa-graduation-cap"></i>
+        <p> MBA, 2011</p>
+        <li> testing again </li>
               
       <div class="col-sm-7">
         <h3>Education</h3>
