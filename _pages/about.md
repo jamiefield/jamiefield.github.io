@@ -13,11 +13,6 @@ redirect_from:
 | &#187; Human resource management  | TEST |
 | &#187; Organizational research methods  | TEST |
 
-| Second Header |
-| ------------- |
-| Content Cell  |
-| Content Cell  |
-
 <section>
 
 <div class="row">
@@ -43,10 +38,10 @@ redirect_from:
           
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
+            
               <p class="course">PhD in Nutritional Epidemiology, 2009</p>
               <p class="institution">University of North Carolina</p>
-            </div>
+            
           </li>
           
           <li>
