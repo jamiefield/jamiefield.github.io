@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +8,25 @@ redirect_from:
 ---
 
 
-<div class="col-sm-7">
+<div class="row">
+
+      
+      <div class="col-sm-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Statistics</li>
+          
+          <li>Epidemiology</li>
+          
+          <li>Child growth</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-sm-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
           
@@ -39,6 +56,16 @@ redirect_from:
           
         </ul>
       </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+## About
 
 I am an Assistant of Management at West Virginia University's <a href="https://business.wvu.edu">John Chambers College of Business and Economics</a>. My research focuses on topics pertaining to organizational behvaior, human research management, and organizational research mthods. In particular, I am interested in how big data can be leveraged to improve organizational research methodology and better our understanding of organizational behavior and human resource management phenomena. I believe that the unification of large and diverse data sets, existing statistical analysis techniques like meta-analysis and relative importance analysis, and sound theoretical reasoning will help create science that is worthy of guiding practice.
 
