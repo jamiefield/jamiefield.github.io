@@ -13,12 +13,13 @@ redirect_from:
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
-<div class="w3-container w3-red w3-cell">
-  <p>Hello W3.CSS Layout.</p>
-</div>
-
-<div class="w3-container w3-green w3-cell">
-  <p>Hello W3.CSS Layout.</p>
+<div class="w3-cell-row">
+  <div class="w3-container w3-red w3-cell">
+    <p>Hello W3.CSS Layout.</p>
+  </div>
+  <div class="w3-container w3-green w3-cell">
+    <p>Hello W3.CSS Layout.</p>
+  </div>
 </div>
 
 </body>
