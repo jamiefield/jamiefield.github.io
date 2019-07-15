@@ -116,13 +116,62 @@ author:
   youtube          :
   wikipedia        :
 
-<li>
+<div class="row">
+
+      
+      <div class="col-sm-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Statistics</li>
+          
+          <li>Epidemiology</li>
+          
+          <li>Child growth</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-sm-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">PhD in Nutritional Epidemiology, 2009</p>
               <p class="institution">University of North Carolina</p>
             </div>
           </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MHS in International Health, 2003</p>
+              <p class="institution">Johns Hopkins School of Public Health</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BA in Biology, 2001</p>
+              <p class="institution">Hendrix College</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
 
 
 # Reading Files
