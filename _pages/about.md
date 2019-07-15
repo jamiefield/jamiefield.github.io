@@ -23,24 +23,24 @@ redirect_from:
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             
-              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
-              <p class="institution">University of North Carolina</p>
+              <p class="course">Ph. D. in Business (Management), 2017</p>
+              <p class="institution">Virginia Commonwealth University</p>
             
           </li>
           
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MHS in International Health, 2003</p>
-              <p class="institution">Johns Hopkins School of Public Health</p>
+              <p class="course">MBA, 2011</p>
+              <p class="institution">Marshall University</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">BA in Biology, 2001</p>
-              <p class="institution">Hendrix College</p>
+              <p class="course">BS in Business Administration, 2008</p>
+              <p class="institution">Glenville State College</p>
             </div>
           </li>
           
