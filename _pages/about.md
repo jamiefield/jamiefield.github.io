@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 <section>
 
 <div class="row">
-
       
       <div class="col-sm-5">
         <h3>Interests</h3>
