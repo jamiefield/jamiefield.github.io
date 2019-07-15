@@ -14,11 +14,11 @@ redirect_from:
   
 
 <div class="w3-cell-row">
-  <div class="w3-container w3-red w3-cell">
-    <p><h3>Interests</h3></p>
+  <div class="w3-container w3-cell">
+    <p><h4>Interests</h4></p>
   <p> Organizational behavior</p>
   </div>
-  <div class="w3-container w3-green w3-cell">
+  <div class="w3-container w3-cell">
     <p>Hello W3.CSS Layout.</p>
   </div>
 </div>
@@ -26,7 +26,7 @@ redirect_from:
 </body>
 </html>
 
-<h3>About</h3>
+<h3>Test</h3>
 
 I am an Assistant of Management at West Virginia University's <a href="https://business.wvu.edu">John Chambers College of Business and Economics</a>. My research focuses on topics pertaining to organizational behvaior, human research management, and organizational research mthods. In particular, I am interested in how big data can be leveraged to improve organizational research methodology and better our understanding of organizational behavior and human resource management phenomena. I believe that the unification of large and diverse data sets, existing statistical analysis techniques like meta-analysis and relative importance analysis, and sound theoretical reasoning will help create science that is worthy of guiding practice.
 
