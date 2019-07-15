@@ -44,7 +44,6 @@ redirect_from:
               <p class="institution">University of North Carolina</p>
             </div>
           </li>
-          
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
@@ -52,7 +51,6 @@ redirect_from:
               <p class="institution">Johns Hopkins School of Public Health</p>
             </div>
           </li>
-          
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
