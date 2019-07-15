@@ -17,17 +17,10 @@ redirect_from:
         <li> Organizational research methods </li>
                
         <h3>Education</h3>
-        <ul><li> testing
-        <li> testing
-        <li> testing
-        </li>
-
-          
-        </ul>
-      </div>
-      
-
-      
+        <li> TESTING
+        <li> TESTING
+        <li> TESTING </li>
+              
       <div class="col-sm-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
