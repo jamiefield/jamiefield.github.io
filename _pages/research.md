@@ -10,7 +10,7 @@ author_profile: true
 
 7: Bennett, A. A., Bakker, A. B., & Field, J. G. (2018). Recovery from work-related effort: A meta-analysis. <i>Journal of Organizational Behavior</i>, <i>39</i>, 262-275. doi: [10.1002/job.2217](http://doi.org/10.1002/job.2217).
 
-6: Lakens, D., Adolfi, F. G., Albers, C. J., Anvari, F., Apps, M. A. J., Argamon, S. E., … Zwaan, R. A. (2018). Justify your alpha. <i>Nature Human Behavior</i>, <i>2</i>, 168-171. doi: [10.1038/s41562-018-0311-x](https://doi.org/10.1038/s41562-018-0311-x._https://doi.org/10.1038/s41562-018-0311-x).
+6: Lakens, D., Adolfi, F. G., Albers, C. J., Anvari, F., Apps, M. A. J., Argamon, S. E., … Zwaan, R. A. (2018). Justify your alpha. <i>Nature Human Behavior</i>, <i>2</i>, 168-171. doi: [10.1038/s41562-018-0311-x](https://doi.org/10.1038/s41562-018-0311-x).
 Preprint available at [psyarxiv.com/9s3y6](https://psyarxiv.com/9s3y6)
 
 5: Bosco, F. A., Aguinis, H., Field, J. G., Pierce, C. A., & Dalton, D. R. (2016). HARKing’s threat to organizational research: Evidence from primary and meta-analytic sources. <i>Personnel Psychology</i>, <i>69<i>, 709-750. doi: [10.1111/peps.12111](http://doi.org/10.1111/peps.12111).
