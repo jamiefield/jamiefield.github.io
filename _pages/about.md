@@ -46,6 +46,7 @@ redirect_from:
           
         </ul>
       </div>
+      </section>
       
 ## About
 
