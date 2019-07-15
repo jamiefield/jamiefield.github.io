@@ -116,14 +116,6 @@ author:
   youtube          :
   wikipedia        :
 
-<li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BA in Biology, 2001</p>
-              <p class="institution">Hendrix College</p>
-            </div>
-          </li>
-
 # Reading Files
 include:
   - .htaccess
