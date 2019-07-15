@@ -116,6 +116,14 @@ author:
   youtube          :
   wikipedia        :
 
+<li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
+              <p class="institution">University of North Carolina</p>
+            </div>
+          </li>
+
 
 # Reading Files
 include:
