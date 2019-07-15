@@ -12,25 +12,16 @@ redirect_from:
       
       <div class="col-sm-5">
         <h3>Interests</h3>
-        <ul><li> Organizational behavior
+        <li> Organizational behavior
         <li> Human resource management
-        <li> Organizational research methods 
-        </ul></li>
-        br()
-        
+        <li> Organizational research methods </li>
+               
         <h3>Education</h3>
         <ul><li> testing
         <li> testing
         <li> testing
         </li>
-        
-        <ul class="ul-interests">
-          
-          <li>Statistics</li>
-          
-          <li>Epidemiology</li>
-          
-          <li>Child growth</li>
+
           
         </ul>
       </div>
