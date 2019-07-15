@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 | Interests | Education |
-| ------------- |
+| ------------- | ------------- |
 | &#187; Organizational behavior  | <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
