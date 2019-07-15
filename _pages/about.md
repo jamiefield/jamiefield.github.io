@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<section>
+
 <div class="row">
 
       
