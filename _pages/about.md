@@ -9,65 +9,6 @@ redirect_from:
 <section id="about" class="home-section">
     <div class="container">
       
-
-
-
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
-  <div class="col-xs-12 col-md-4">
-    <div id="profile">
-
-      
-      <div class="portrait" style="background-image: url('/img/portrait2.jpg');"></div>
-      <meta itemprop="image" content="/img/portrait2.jpg">
-      
-
-      <div class="portrait-title">
-        <h2 itemprop="name">Darren L Dahly</h2>
-        <h3 itemprop="jobTitle">Principal Statistician | Senior Lecturer</h3>
-        
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          
-            <span itemprop="name">University College Cork</span>
-          
-        </h3>
-        
-      </div>
-
-      <link itemprop="url" href="/">
-
-      <ul class="social-icon" aria-hidden="true">
-        
-        
-        <li>
-          <a itemprop="sameAs" href="mailto:ddahly@ucc.ie" target="_blank">
-            <i class="fa fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        <li>
-          <a itemprop="sameAs" href="//twitter.com/statsepi" target="_blank">
-            <i class="fa fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        <li>
-          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=JuXloVMAAAAJ&amp;hl=en" target="_blank">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-        
-        <li>
-          <a itemprop="sameAs" href="//github.com/darrendahly" target="_blank">
-            <i class="fa fa-github big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
-
-    </div>
   </div>
   <div class="col-xs-12 col-md-8" itemprop="description">
 
