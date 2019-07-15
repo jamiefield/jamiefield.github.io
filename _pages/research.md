@@ -33,7 +33,7 @@ Preprint available at [psyarxiv.com/9s3y6](https://psyarxiv.com/9s3y6)
 
 2: Bosco, F. A., Aguinis, H., Singh, K., Field, J. G., & Pierce, C. A. (2015). Correlational effect size benchmarks. <i>Journal of Applied Psychology</i>, <i>100</i>, 431-449. doi: [10.1037/a0038047](http://doi.org/10.1037/a0038047).
 
-1:Open Science Collaboration. (2012). An open, large-scale, collaborate effort to estimate the reproducibility of psychological science. <i>Perspective on Psychological Science</i>, <i>7</i>, 657-660. doi: [10.1177/1745691612462588](http://doi.org/10.1177/1745691612462588).
+1: Open Science Collaboration. (2012). An open, large-scale, collaborate effort to estimate the reproducibility of psychological science. <i>Perspective on Psychological Science</i>, <i>7</i>, 657-660. doi: [10.1177/1745691612462588](http://doi.org/10.1177/1745691612462588).
 
 **Conference presentations**
 
