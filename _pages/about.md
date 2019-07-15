@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<section id="about" class="home-section">
+    <div class="container">
+      
     <div class="row">
 
       
