@@ -13,12 +13,16 @@ redirect_from:
 | &#187; Human resource management  | TEST |
 | &#187; Organizational research methods  | TEST |
 
+<h3>Interests</h3>
+
+
 <section>
 
 <div class="row">
       
       <div class="col-sm-5">
         <h3>Interests</h3>
+        <ul><li>Organizational behavior</l>
         <ul class="ul-interests">
           
           <li>Statistics</li>
