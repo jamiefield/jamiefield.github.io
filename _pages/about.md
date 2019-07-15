@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Interests |
+| ------------- |
+| <li>Statistics</li>  |
+| <li>Statistics</li>  |
+
+| Second Header |
+| ------------- |
+| Content Cell  |
+| Content Cell  |
 
 <section>
 
