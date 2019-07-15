@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
 <html>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +14,7 @@ redirect_from:
 
 <div class="w3-cell-row">
   <div class="w3-container w3-red w3-cell">
-    <p>Hello W3.CSS Layout.</p>
+    <p><h3>Interests</h3></p>
   </div>
   <div class="w3-container w3-green w3-cell">
     <p>Hello W3.CSS Layout.</p>
