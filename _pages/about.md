@@ -15,10 +15,11 @@ redirect_from:
 
 <div class="w3-cell-row">
   <div class="w3-container w3-cell">
-    <p><h4>Interests</h4></p>
+    <p><h4><b>Interests</h4></b></p>
   <p> Organizational behavior</p>
   </div>
   <div class="w3-container w3-cell">
+  <p><h4><b>Education</h4></b></p>
     <p><ul class="ul-edu fa-ul">
             <li>
             <i class="fa-li fa fa-graduation-cap"></i>
