@@ -22,7 +22,10 @@ redirect_from:
       
       <div class="col-sm-5">
         <h3>Interests</h3>
-        <ul><li>Organizational behavior</l>
+        <ul><li> Organizational behavior
+        <li> Human resource management
+        <li> Organizational research methods
+        
         <ul class="ul-interests">
           
           <li>Statistics</li>
