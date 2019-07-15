@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-| Interests |
+| Interests | Education |
 | ------------- |
-| &#187; Organizational behavior  |
-| &#187; Human resource management  |
-| &#187; Organizational research methods  |
+| &#187; Organizational behavior  | <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
+              <p class="institution">University of North Carolina</p>
+            </div>
+          </li> |
+| &#187; Human resource management  | TEST |
+| &#187; Organizational research methods  | TEST |
 
 | Second Header |
 | ------------- |
