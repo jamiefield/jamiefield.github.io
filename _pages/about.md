@@ -14,5 +14,36 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <img src= '/images/metabusTaxonomy.PNG'>
 
-===
+TESTING
+
+<div class="col-sm-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
+              <p class="institution">University of North Carolina</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MHS in International Health, 2003</p>
+              <p class="institution">Johns Hopkins School of Public Health</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BA in Biology, 2001</p>
+              <p class="institution">Hendrix College</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
 
