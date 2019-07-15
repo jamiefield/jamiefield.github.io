@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "My software"
+    url: /software/
         
   - title: "Blog Posts"
     url: /year-archive/
