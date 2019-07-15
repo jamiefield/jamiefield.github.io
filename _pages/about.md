@@ -13,27 +13,22 @@ redirect_from:
         <h3>Interests</h3>
         <li> Organizational behavior
         <li> Human resource management
-        <li> Organizational research methods </li></li>           
+        <li> Organizational research methods </li></li></div>           
       <div class="col-sm-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
-          
-          <li>
+            <li>
             <i class="fa-li fa fa-graduation-cap"></i>
-            
-              <p class="course">Ph. D. in Business (Management), 2017</p>
-              <p class="institution">Virginia Commonwealth University</p>
-            
-          </li>
-          
-          <li>
+            <p class="course">Ph. D. in Business (Management), 2017</p>
+            <p class="institution">Virginia Commonwealth University</p>
+            </li>
+            <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">MBA, 2011</p>
               <p class="institution">Marshall University</p>
             </div>
           </li>
-          
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
@@ -41,11 +36,10 @@ redirect_from:
               <p class="institution">Glenville State College</p>
             </div>
           </li>
-          
         </ul>
       </div>
       
-<h3>TESTING</h3>
+<h3>About</h3>
 
 I am an Assistant of Management at West Virginia University's <a href="https://business.wvu.edu">John Chambers College of Business and Economics</a>. My research focuses on topics pertaining to organizational behvaior, human research management, and organizational research mthods. In particular, I am interested in how big data can be leveraged to improve organizational research methodology and better our understanding of organizational behavior and human resource management phenomena. I believe that the unification of large and diverse data sets, existing statistical analysis techniques like meta-analysis and relative importance analysis, and sound theoretical reasoning will help create science that is worthy of guiding practice.
 
