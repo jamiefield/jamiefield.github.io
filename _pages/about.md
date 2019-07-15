@@ -14,6 +14,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <img src= '/images/metabusTaxonomy.PNG'>
 
-TEST
-TEST
+<i class="fa-li fa fa-graduation-cap"></i>
+
+NEW TEST
 
