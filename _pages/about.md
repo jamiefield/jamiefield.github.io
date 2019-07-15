@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 <section>
 
 <div class="row">
@@ -17,8 +15,10 @@ redirect_from:
         <ul><li> Organizational behavior
         <li> Human resource management
         <li> Organizational research methods 
+        </ul></li>
+        br()
         
-        </ul></li><h3>Education</h3>
+        <h3>Education</h3>
         <ul><li> testing
         <li> testing
         <li> testing
