@@ -24,8 +24,7 @@ redirect_from:
             <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <p class="course">Ph. D. in Business (Management), 2017</p>
-            <p class="institution">Virginia Commonwealth University</p>
-            </li></p>
+            <p class="institution">Virginia Commonwealth University</p></li></p>
   </div>
 </div>
 
