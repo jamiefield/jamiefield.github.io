@@ -6,9 +6,77 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<section id="about" class="home-section">
+    <div class="container">
+      
 
 
-<div class="row">
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+  <div class="col-xs-12 col-md-4">
+    <div id="profile">
+
+      
+      <div class="portrait" style="background-image: url('/img/portrait2.jpg');"></div>
+      <meta itemprop="image" content="/img/portrait2.jpg">
+      
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Darren L Dahly</h2>
+        <h3 itemprop="jobTitle">Principal Statistician | Senior Lecturer</h3>
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          
+            <span itemprop="name">University College Cork</span>
+          
+        </h3>
+        
+      </div>
+
+      <link itemprop="url" href="/">
+
+      <ul class="social-icon" aria-hidden="true">
+        
+        
+        <li>
+          <a itemprop="sameAs" href="mailto:ddahly@ucc.ie" target="_blank">
+            <i class="fa fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//twitter.com/statsepi" target="_blank">
+            <i class="fa fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=JuXloVMAAAAJ&amp;hl=en" target="_blank">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        <li>
+          <a itemprop="sameAs" href="//github.com/darrendahly" target="_blank">
+            <i class="fa fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-8" itemprop="description">
+
+    <p>I am the Principal Statistician for the HRB Clinical Research Facility in Cork, Ireland, and a Senior Lecturer in Research Methods at UCC. I collaborate and consult on a large and varied portfolio of patient-focused and public health research projects. My primary goal is to work with investigators to help ensure that their study designs and methods for data analysis are appropriate.</p>
+
+<p>I am also interested in methodological research, particularly in the areas of longitudinal and latent variable statistical modelling, and analysis of compositional data (e.g. body composition, microbiome studies). Lastly, I am a statistics editor for the Journal for the Developmental Origins of Health and Disease, and conduct related research on the relationships between infant nutrition and growth with life long cardio-metabolic health.</p>
+
+
+    <div class="row">
 
       
       <div class="col-sm-5">
