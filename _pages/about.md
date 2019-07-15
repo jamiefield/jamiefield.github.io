@@ -16,7 +16,7 @@ redirect_from:
 <div class="w3-cell-row">
   <div class="w3-container w3-red w3-cell">
     <p><h3>Interests</h3></p>
-  <p><li> Organizational behavior</p>
+    <li> Organizational behavior
   </div>
   <div class="w3-container w3-green w3-cell">
     <p>Hello W3.CSS Layout.</p>
