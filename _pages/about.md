@@ -52,7 +52,7 @@ redirect_from:
         </ul>
       </div>
       
-<h3>About</h3>
+<h3>Testing</h3>
 
 I am an Assistant of Management at West Virginia University's <a href="https://business.wvu.edu">John Chambers College of Business and Economics</a>. My research focuses on topics pertaining to organizational behvaior, human research management, and organizational research mthods. In particular, I am interested in how big data can be leveraged to improve organizational research methodology and better our understanding of organizational behavior and human resource management phenomena. I believe that the unification of large and diverse data sets, existing statistical analysis techniques like meta-analysis and relative importance analysis, and sound theoretical reasoning will help create science that is worthy of guiding practice.
 
@@ -61,3 +61,4 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 <img src= '/images/metabusTaxonomy.PNG'>
 
 TESTING
+</body>
