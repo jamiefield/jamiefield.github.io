@@ -21,7 +21,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 <section class="indent-1">
     <!-- Section 1 --> 
     <section>
-        <div>Some content 1</div>
+        <div><h3>Interests</h3></div>
         <div>Some more 1</div>
     </section>
 
@@ -35,7 +35,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <div class="row">      
       <div class="col-sm-2">
-        <h3>Interests</h3>
+        
         <li> Organizational behavior
         <li> Human resource management
         <li> Organizational research methods </li><div>
