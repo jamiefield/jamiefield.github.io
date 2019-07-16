@@ -56,7 +56,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
               <p class="course">Ph.D. in Business, 2017</p>
 
-              <p><font size="2" color="rgba(0,0,0,0.6)">Virginia Commonwealth University</font></p>
+              <p class="institution">Virginia Commonwealth University</font></p>
 
             </div>
 
