@@ -24,28 +24,22 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
         <ul class="ul-interests">
 
          
-
-          <li>Organizational behavior</li>
+         <li>Organizational behavior</li>
 
          
-
           <li>Human resource management</li>
 
          
-
           <li>Organizational research methods</li>
 
-               
-
-                 
+              
+                
 
         </ul>
 
       </div>
 
-     
-
-     
+         
 
       <div class="col-sm-7">
 
@@ -54,7 +48,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
         <ul class="ul-edu fa-ul">
 
          
-
           <li>
 
             <i class="fa-li fas fa-graduation-cap"></i>
@@ -70,7 +63,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
           </li>
 
          
-
           <li>
 
             <i class="fa-li fas fa-graduation-cap"></i>
@@ -86,7 +78,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
           </li>
 
          
-
           <li>
 
             <i class="fa-li fas fa-graduation-cap"></i>
@@ -102,7 +93,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
           </li>
 
          
-
         </ul>
 
       </div>
