@@ -16,11 +16,7 @@ redirect_from:
 <p><img src= '/images/metabusTaxonomy.PNG'></p>
 
 <body>
-  <html lang="en-us">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/highlight.min.css">
-  <link rel="stylesheet" href="/css/hugo-academic.css">
-
+  
 <div class="row">
       
          <div class="col-sm-5">
