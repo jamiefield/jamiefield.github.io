@@ -28,33 +28,23 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
          
 
-          <li>Statistical Computing</li>
+          <li>Human resource management</li>
 
          
 
-          <li>Data Science with Business Applications</li>
+          <li>Organizational research methods</li>
 
          
 
           <li>Statistics Education</li>
 
-         
-
-          <li>Online Education and Distance Learning</li>
-
-         
-
-          <li>Statistical and Business Consulting</li>
-
-         
+                 
 
         </ul>
 
       </div>
 
      
-
- 
 
      
 
@@ -72,25 +62,9 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
             <div class="description">
 
-              <p class="course">Ph.D. in Statistics, 2014</p>
+              <p class="course">Ph.D. in Business, 2017</p>
 
-              <p class="institution">University of Minnesota School of Statistics</p>
-
-            </div>
-
-          </li>
-
-         
-
-          <li>
-
-            <i class="fa-li fas fa-graduation-cap"></i>
-
-            <div class="description">
-
-              <p class="course">B.Sc. in Industrial Mathematics and Statistics, 2009</p>
-
-              <p class="institution">West Virginia University</p>
+              <p class="institution">Virginia Commonwealth University</p>
 
             </div>
 
@@ -104,9 +78,25 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
             <div class="description">
 
-              <p class="course">B.Sc. in Mathematics, 2009</p>
+              <p class="course">MBA, 2011</p>
 
-              <p class="institution">West Virginia University</p>
+              <p class="institution">Marshall University</p>
+
+            </div>
+
+          </li>
+
+         
+
+          <li>
+
+            <i class="fa-li fas fa-graduation-cap"></i>
+
+            <div class="description">
+
+              <p class="course">B.Sc. in Business Administration, 2008</p>
+
+              <p class="institution">Glenville State College</p>
 
             </div>
 
