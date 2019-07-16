@@ -13,49 +13,120 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <img src= '/images/metabusTaxonomy.PNG'>
       
-      <body>
-      <div class="col-sm-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Statistics</li>
-          
-          <li>Epidemiology</li>
-          
-          <li>Child growth</li>
-          
-        </ul>
-      </div>
-            
-      <div class="col-sm-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
-              <p class="institution">University of North Carolina</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MHS in International Health, 2003</p>
-              <p class="institution">Johns Hopkins School of Public Health</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BA in Biology, 2001</p>
-              <p class="institution">Hendrix College</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-     </body>
+         <div class="col-md-5">
 
+        <h3>Interests</h3>
+
+        <ul class="ul-interests">
+
+         
+
+          <li>Multivariate Statistical Machine Learning</li>
+
+         
+
+          <li>Statistical Computing</li>
+
+         
+
+          <li>Data Science with Business Applications</li>
+
+         
+
+          <li>Statistics Education</li>
+
+         
+
+          <li>Online Education and Distance Learning</li>
+
+         
+
+          <li>Statistical and Business Consulting</li>
+
+         
+
+        </ul>
+
+      </div>
+
+     
+
+ 
+
+     
+
+      <div class="col-md-7">
+
+        <h3>Education</h3>
+
+        <ul class="ul-edu fa-ul">
+
+         
+
+          <li>
+
+            <i class="fa-li fas fa-graduation-cap"></i>
+
+            <div class="description">
+
+              <p class="course">Ph.D. in Statistics, 2014</p>
+
+              <p class="institution">University of Minnesota School of Statistics</p>
+
+            </div>
+
+          </li>
+
+         
+
+          <li>
+
+            <i class="fa-li fas fa-graduation-cap"></i>
+
+            <div class="description">
+
+              <p class="course">B.Sc. in Industrial Mathematics and Statistics, 2009</p>
+
+              <p class="institution">West Virginia University</p>
+
+            </div>
+
+          </li>
+
+         
+
+          <li>
+
+            <i class="fa-li fas fa-graduation-cap"></i>
+
+            <div class="description">
+
+              <p class="course">B.Sc. in Mathematics, 2009</p>
+
+              <p class="institution">West Virginia University</p>
+
+            </div>
+
+          </li>
+
+         
+
+        </ul>
+
+      </div>
+
+     
+
+ 
+
+    </div>
+
+  </div>
+
+</div>
+
+ 
+
+    </div>
+
+  </section>
