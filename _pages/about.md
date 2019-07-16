@@ -24,7 +24,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
          
 
-          <li>Multivariate Statistical Machine Learning</li>
+          <liOrganizational behavior</li>
 
          
 
