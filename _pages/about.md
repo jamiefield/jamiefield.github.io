@@ -15,13 +15,13 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <style>
     .indent-1 {float: left;}
-    .indent-1 section {width: 75%; float: left;}
+    .indent-1 section {width: 50%; float: left;}
 </style>
 
 <section class="indent-1">
     <!-- Section 1 --> 
     <section>
-        <div><h3>Interests</h3></div>
+        <div><h3>TEST</h3></div>
       <div><li>Organizational behavior</li></div>
       <div><li>Human resource management</li></div>
       <div><li>Organizational research methods</li></div>
