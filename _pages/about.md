@@ -13,6 +13,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <img src= '/images/metabusTaxonomy.PNG'>
       
+      <body>
       <div class="col-sm-5">
         <h3>Interests</h3>
         <ul class="ul-interests">
@@ -25,9 +26,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
           
         </ul>
       </div>
-      
-
-      
+            
       <div class="col-sm-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
@@ -58,4 +57,5 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
           
         </ul>
       </div>
+     </body>
 
