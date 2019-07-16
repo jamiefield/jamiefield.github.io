@@ -35,9 +35,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
           <li>Organizational research methods</li>
 
-         
-
-          <li>Statistics Education</li>
+               
 
                  
 
