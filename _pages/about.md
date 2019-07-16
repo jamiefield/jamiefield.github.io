@@ -21,17 +21,14 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 <section class="indent-1">
     <!-- Section 1 --> 
     <section>
-        <div><h3>Interests</h3></div>
-        <div><li> Organizational behavior</div>
-        <div><li> Human resource management</div>
-        <div><li> Organizational research methods</div>
+        <div>Some content 1</div>
+        <div>Some more 1</div>
     </section>
 
     <!-- Section 2 -->
     <section>
-        <div><h3>Education</h3></div>
+        <div>Some content 2</div>
         <div>Some more 2</div>
     </section>
-</section>         
-          
-        
+</section>  
+
