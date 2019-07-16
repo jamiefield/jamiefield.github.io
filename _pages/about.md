@@ -17,14 +17,12 @@ redirect_from:
  
   
 
-
-  
   
  
   <link rel="stylesheet" href="/css/hugo-academic.css">
       
 
-  <title></title>
+
 
 
 <h1> About </h1>
