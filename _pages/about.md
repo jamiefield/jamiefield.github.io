@@ -121,14 +121,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
  
 
-    </div>
 
-  </div>
-
-</div>
-
- 
-
-    </div>
 
   </section>
