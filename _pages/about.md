@@ -23,13 +23,13 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
     <section>
         <div><h3>Interests</h3></div>
         <div><li> Organizational behavior</div>
-        <div><li> Organizational behavior</div>
-        <div><li> Organizational behavior</div>
+        <div><li> Human resource management</div>
+        <div><li> Organizational research methods</div>
     </section>
 
     <!-- Section 2 -->
     <section>
-        <div>Some content 2</div>
+        <div><h3>Education</h3></div>
         <div>Some more 2</div>
     </section>
 </section>  
@@ -39,11 +39,11 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
       <div class="col-sm-2">
         
         
-        <li> Human resource management
-        <li> Organizational research methods </li><div>
+        <li> 
+        <li>  </li><div>
         
       <div class="col-sm-2">
-        <h3>Education</h3>
+        
         <ul class="ul-edu fa-ul">
             <li>
             <i class="fa-li fa fa-graduation-cap"></i>
