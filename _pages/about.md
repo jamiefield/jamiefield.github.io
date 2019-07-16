@@ -16,8 +16,8 @@ redirect_from:
 <p><img src= '/images/metabusTaxonomy.PNG'></p>
 
 <body>
-  <link rel="stylesheet" href="/css/highlight.min.css">
-  <link rel="stylesheet" href="/css/hugo-academic.css">
+  <link rel="stylesheet" href="css/highlight.min.css">
+  <link rel="stylesheet" href="css/hugo-academic.css">
 
   
 <div class="row">
