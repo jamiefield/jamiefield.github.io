@@ -35,15 +35,9 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 </section>  
 
 
-<div class="row">      
-      <div class="col-sm-2">
+
         
-        
-        <li> 
-        <li>  </li><div>
-        
-      <div class="col-sm-2">
-        
+          
         <ul class="ul-edu fa-ul">
             <li>
             <i class="fa-li fa fa-graduation-cap"></i>
