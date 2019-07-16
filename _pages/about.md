@@ -13,8 +13,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <img src= '/images/metabusTaxonomy.PNG'>
 
-  <div class="container-fluid">
-    <div class="row">
+<div class="row">
       
          <div class="col-sm-5">
 
@@ -95,6 +94,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
         </ul>
 
       </div>
-      </div>
-      </div> 
+  </div>
+
 
