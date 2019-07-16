@@ -23,6 +23,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
     <section>
         <div><h3>Interests</h3></div>
       <div><li>Organizational behavior</li></div>
+      <div><li>Human resource management</li></div>
     </section>
 
     <!-- Section 2 -->
