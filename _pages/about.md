@@ -15,7 +15,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <style>
     .indent-1 {float: left;}
-    .indent-1 section {width: 50%; float: left;}
+    .indent-1 section {width: 75%; float: left;}
 </style>
 
 <section class="indent-1">
