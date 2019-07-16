@@ -52,10 +52,9 @@ redirect_from:
 
             <div class="description">
 
-              <p class="course">Ph.D. in Business, 2017</p>
+              <p class="course">Ph.D. in Business, 2017 -- Virginia Commonwealth University </p>
 
-              <p class="institution">Virginia Commonwealth University</p>
-
+             
             </div>
 
           </li>
@@ -67,11 +66,9 @@ redirect_from:
 
             <div class="description">
 
-              <p class="course">MBA, 2011</p>
+              <p class="course">MBA, 2011 -- Marshall University</p>
 
-              <p class="institution">Marshall University</p>
-
-            </div>
+              </div>
 
           </li>
 
@@ -82,11 +79,9 @@ redirect_from:
 
             <div class="description">
 
-              <p class="course">B.Sc. in Business Administration, 2008</p>
+              <p class="course">B.Sc. in Business Administration, 2008 -- Glenville State College</p>
 
-              <p class="institution">Glenville State College</p>
-
-            </div>
+              </div>
 
           </li>
 
