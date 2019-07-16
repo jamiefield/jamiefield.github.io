@@ -183,6 +183,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  hobby:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
