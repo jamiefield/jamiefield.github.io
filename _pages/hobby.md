@@ -1,6 +1,6 @@
 ---
 permalink: /hobby/
-title: "TEST"
+title: "Hobbies"
 author_profile: true
 redirect_from: 
   - /md/
