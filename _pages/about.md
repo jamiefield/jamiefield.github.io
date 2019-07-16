@@ -32,31 +32,6 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
         <div><h3>Education</h3></div>
         <div>Some more 2</div>
     </section>
-</section>  
-
-
-
-        
+</section>         
           
-        <ul class="ul-edu fa-ul">
-            <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <p class="course">Ph. D. in Business (Management), 2017</p>
-            <p class="institution">Virginia Commonwealth University</p>
-            </li>
-            <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MBA, 2011</p>
-              <p class="institution">Marshall University</p>
-            </div>
-          </li>
-          <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BS in Business Administration, 2008</p>
-              <p class="institution">Glenville State College</p>
-            </div>
-          </li>
-        </ul>
-      </div>
+        
