@@ -13,28 +13,52 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
 <img src= '/images/metabusTaxonomy.PNG'>
 
-<style>
-    .indent-1 {float: left;}
-    .indent-1 section {width: 50%; float: left;}
-</style>
+    <div class="row">
 
-<section class="indent-1">
-    <!-- Section 1 --> 
-    <section>
-        <div><h3>Interests</h3></div>
-      <div><li>Organizational behavior</li></div>
-      <div><li>Human resource management</li></div>
-      <div><li>Organizational research methods</li></div>
-    </section>
+      
+      <div class="col-sm-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Statistics</li>
+          
+          <li>Epidemiology</li>
+          
+          <li>Child growth</li>
+          
+        </ul>
+      </div>
+      
 
-    <!-- Section 2 -->
-    <section>
-        <div><h3>Education</h3></div>
-        <div><li>
+      
+      <div class="col-sm-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
             <i class="fa-li fa fa-graduation-cap"></i>
-            <p class="course">Ph. D. in Business (Management), 2017</p>
-            <p class="institution">Virginia Commonwealth University</p>
-            </li></div>
-    </section>
-</section>  
+            <div class="description">
+              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
+              <p class="institution">University of North Carolina</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MHS in International Health, 2003</p>
+              <p class="institution">Johns Hopkins School of Public Health</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BA in Biology, 2001</p>
+              <p class="institution">Hendrix College</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
 
