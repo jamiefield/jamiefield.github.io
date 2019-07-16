@@ -24,7 +24,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
 
          
 
-          <liOrganizational behavior</li>
+          <li>Organizational behavior</li>
 
          
 
