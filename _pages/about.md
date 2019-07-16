@@ -24,6 +24,7 @@ I am an active contributor to and member of the <a href="https://metaBUS.org">me
         <div><h3>Interests</h3></div>
       <div><li>Organizational behavior</li></div>
       <div><li>Human resource management</li></div>
+      <div><li>Organizational research methods</li></div>
     </section>
 
     <!-- Section 2 -->
