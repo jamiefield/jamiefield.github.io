@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <html lang="en-us">
-  <head>
+  <body>
 
     
     
@@ -23,10 +23,10 @@ redirect_from:
   
       
   <title></title>
-  </head>
+  
 
 
-<body>
+
 <h1> About </h1>
 I am an Assistant of Management at West Virginia University's <a href="https://business.wvu.edu">John Chambers College of Business and Economics</a>. My research focuses on topics pertaining to organizational behvaior, human research management, and organizational research mthods. In particular, I am interested in how big data can be leveraged to improve organizational research methodology and better our understanding of organizational behavior and human resource management phenomena. I believe that the unification of large and diverse data sets, existing statistical analysis techniques like meta-analysis and relative importance analysis, and sound theoretical reasoning will help create science that is worthy of guiding practice.
 
