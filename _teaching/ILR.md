@@ -1,5 +1,5 @@
 ---
-title: "Link for ILR 525:001"
+title: "Link for ILR 525"
 excerpt: "Students should click on the above link for course content"
 collection: teaching
 ---
