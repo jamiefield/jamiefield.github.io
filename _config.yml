@@ -41,8 +41,7 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
-  generatedFields:
-    
+  
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
