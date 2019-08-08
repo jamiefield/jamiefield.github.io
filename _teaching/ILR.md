@@ -1,6 +1,6 @@
 ---
-title: "Link for ILR 525"
-excerpt: "Students should click on the above link for course content"
+title: "Fall 2019"
+excerpt: "Students enrolled in my ILR 525:001 and ILR 525:002 should click on the above link for course content"
 collection: teaching
 date: 2019-08-22
 location: "Morgantown, WV"
