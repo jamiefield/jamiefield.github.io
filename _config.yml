@@ -41,12 +41,12 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
- generatedFields:
+  generatedFields:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"    
- atom_feed:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
