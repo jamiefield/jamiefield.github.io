@@ -12,7 +12,7 @@ Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F
 
 Field, J. G., Kepes, S., Bosco F. A. (under second round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
 
-Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (preparing first revision).(Manuscript title hidden to preserve anonymous peer review process). <i>Advancement in Methods and Practices in Psychological Science</i>.
+Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (under second round review).(Manuscript title hidden to preserve anonymous peer review process). <i>Advancement in Methods and Practices in Psychological Science</i>.
 
 Bosco, F. A., Field, J. G., Rubenstein, A. L., Kepes, S., Oswald, F. L., Uggerslev, K. L., Sheng, Zitong (under review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Management</i>.
 
