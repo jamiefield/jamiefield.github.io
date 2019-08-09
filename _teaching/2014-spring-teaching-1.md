@@ -7,7 +7,7 @@ venue: ""
 location: "City, Country"
 ---
 
-TEACHING TEST
+NEW TEACHING TEST
 
 Heading 1
 ======
