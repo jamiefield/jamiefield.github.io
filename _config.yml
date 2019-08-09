@@ -183,7 +183,7 @@ collections:
   hobby:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _portfolio
+  # _teaching
   - scope:
       path: ""
-      type: portfolio
+      type: teaching
     values:
       layout: single
       author_profile: true
