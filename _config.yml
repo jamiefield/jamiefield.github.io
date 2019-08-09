@@ -186,7 +186,7 @@ collections:
   hobby:
     output: true
     permalink: /:collection/:path/
-  teaching_test:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
@@ -237,8 +237,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
-
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
