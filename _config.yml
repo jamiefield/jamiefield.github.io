@@ -186,6 +186,9 @@ collections:
   hobby:
     output: true
     permalink: /:collection/:path/
+  teaching_test:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
