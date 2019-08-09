@@ -17,3 +17,8 @@ main:
     
   - title: "Hobbies"
     url: /hobby/
+    
+  - title: "TEST"
+    url: /test/
+    
+   
