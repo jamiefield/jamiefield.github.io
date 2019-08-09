@@ -4,10 +4,10 @@ collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: ""
+date: 2019-08-22
 location: "City, Country"
 ---
 
-NEW TEACHING TEST
 
 Heading 1
 ======
