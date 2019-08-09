@@ -1,6 +1,7 @@
 ---
 title: "TEACHING TEST"
 excerpt: "Short description of portfolio item number 1"
+permalink: /teaching/teachingTest
 collection: teaching
 ---
 
