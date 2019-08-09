@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jamie Field"
-  avatar           : "profile.png"
+  avatar           : "<img src='/images/JohnChambersB&E_logolockup.jpg'>"
   bio              : "Assistant Professor of Management at West Virginia University's John Chambers College of Business and Economics"
   location         : "Morgantown, WV"
   employer         : 
