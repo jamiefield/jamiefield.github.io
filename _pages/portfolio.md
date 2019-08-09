@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching_test"
-permalink: /test/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 ---
 Students enrolled in my classes can find all course-related materials in this section. Other educators are permitted to use/share any of my instructional resources. 
