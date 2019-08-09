@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-NEW TEACHING TEST
+NEW NEW TEACHING TEST
 
 Heading 1
 ======
