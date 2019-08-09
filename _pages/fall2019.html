@@ -1,11 +1,10 @@
 ---
-title: "Fall 2019"
-collection: teaching
-type: ""
-permalink: /teaching/fall2019/
-venue: ""
-date: 2019-08-01
-location: "City, Country"
-
+layout: archive
+title: "TEST TEST"
+permalink: /teaching/fall2019
+author_profile: true
 ---
-NEW TEST NEW TEST NEW TESR
+{% include base_path %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
