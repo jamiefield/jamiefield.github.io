@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Instruction"
+    url: /portfolio/
     
   - title: "Software"
     url: /software/
@@ -17,6 +17,3 @@ main:
     
   - title: "Hobbies"
     url: /hobby/
-    
-  - title: "Instruction"
-    url: /portfolio/
