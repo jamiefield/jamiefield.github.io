@@ -4,4 +4,6 @@ excerpt: "Content for ILR 525 can be found here"
 collection: portfolio
 ---
 
-Content will be added here shortly.
+## Fall 2019
+
+<a href="http://jamiefield.github.io/files/Fall2019_ILR525_001_Field_87832.docx?dl=0">ILR 525:001 Syllabus</a>
