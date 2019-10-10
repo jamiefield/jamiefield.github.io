@@ -1,0 +1,301 @@
+studyid,Source,Year,sample,N,r,Turnover Type,Performance Dimenions,Employment System,Industry,Region,Data structure,Role of turnover rates,Journal Quality
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.419999987,Involuntary,Workforce Perf,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.519999981,Involuntary,Financial Perf,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.469999999,Involuntary,Financial Perf,All,Banking,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.349999994,Involuntary,Workforce Perf,All,Banking,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.649999976,Involuntary,Customer satisfaction,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.360000014,Involuntary,Financial Perf,All,Banking,US,Lagged perf,IV,Top-journal
+78,78|Guthrie et al. ,2010,US manufacturing firms (archival data),124,0.07,Involuntary,Financial Perf,All,Manufacturing,US,Cross-sectional,DV,Non-top-journal
+78,78|Guthrie et al. ,2010,US manufacturing firms (archival data),124,-0.100000001,Involuntary,Financial Perf,All,Manufacturing,US,Cross-sectional,DV,Non-top-journal
+83,83|Batt & Colvin ,2011,US call centers in the telecommunications industry,339,-0.119999997,Involuntary,Customer satisfaction,Secondary,Service,US,Panel,Mediator,Top-journal
+109,109|Chi & Wang ,2009,Chinese firms,8291,0.00605,Involuntary,Workforce Perf,Executive,Multiple,Asia,Panel,DV,Non-top-journal
+109,109|Chi & Wang ,2009,Chinese firms,8291,-0.052000001,Involuntary,Financial Perf,Executive,Multiple,Asia,Panel,DV,Non-top-journal
+110,110|Simon et al. ,2012,Establishments in Spanish fashion retail group,232,0.340000004,Involuntary,Workforce Perf,All,MultipleBanking,Europe,Panel,IV,Non-top-journal
+110,110|Simon et al. ,2012,Establishments in Spanish fashion retail group,232,0.400000006,Involuntary,Financial Perf,All,MultipleBanking,Europe,Panel,IV,Non-top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.730000019,Layoff,Financial Perf,All,Banking,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.75,Layoff,Customer satisfaction,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.800000012,Layoff,Financial Perf,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.310000002,Layoff,Workforce Perf,All,Banking,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.709999979,Layoff,Financial Perf,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.449999988,Layoff,Workforce Perf,All,Banking,US,Lagged perf,IV,Top-journal
+57,57|Guthrie & Datta ,2008,Publicly traded firms (Compustat),122,-0.289999992,Layoff,Financial Perf,All,Manufacturing,US,Lagged perf,IV,Top-journal
+80,80|Krishnan et al. ,2007,US firms that experienced acquisition during the period 1992-98 (from SDC database),174,-0.409999996,Layoff,Financial Perf,All,Multiple,US,Lagged perf,Mediator,Non-top-journal
+82,82|Zatzick & Iverson ,2006,Workplace and Employee Survey (WES),2993,-0.135000005,Layoff,Financial Perf,All,Multiple,US,Lagged perf,Moderator,Top-journal
+83,83|Batt & Colvin ,2011,US call centers in the telecommunications industry,339,0.209999993,Layoff,Customer satisfaction,Secondary,Service,US,Panel,Mediator,Top-journal
+88,88|Nixon et al. ,2004,U.S. firms announced downsizing between 1990-1998. From COMPUSTAT and CRSP,364,-0.100000001,Layoff,Financial Perf,All,Multiple,US,Cross-sectional,IV,Top-journal
+89,89|Sheaffer et al. ,2009,Firms traded on the Tel Aviv Stock Exchange (TASE),196,0.050000001,Layoff,Financial Perf,All,Multiple,Europe,Cross-sectional,IV,Non-top-journal
+89,89|Sheaffer et al. ,2009,Firms traded on the Tel Aviv Stock Exchange (TASE),196,0.150000006,Layoff,Financial Perf,All,Multiple,Europe,Cross-sectional,IV,Non-top-journal
+89,89|Sheaffer et al. ,2009,Firms traded on the Tel Aviv Stock Exchange (TASE),196,0.119999997,Layoff,Financial Perf,All,Multiple,Europe,Cross-sectional,IV,Non-top-journal
+90,90|Goins & Gruca ,2008,U.S. petroleum industry firms,57,-0.094999999,Layoff,Financial Perf,All,MultipleEducation,US,Lagged perf,IV,Non-top-journal
+105,105|Chadwick et al. ,2004,Hospitals in the US,58,-0.07,Layoff,Financial Perf,Primary,Hospital,US,Cross-sectional,Control,Top-journal
+105,105|Chadwick et al. ,2004,Hospitals in the US,58,-0.07,Layoff,Financial Perf,Primary,Hospital,US,Lagged perf,Control,Top-journal
+107,107|Trevor & Nyberg ,2008,Employee-friendly companies submitted to Fortune,267,-0.270000011,Layoff,Employee work attitudes,Primary,Multiple,US,Cross-sectional,IV,Top-journal
+822,822|Subramony & Holtom ,2011,64 Regional offices of a temporary help services (THS) firm in the US,64,-0.519999981,Layoff,Workforce Perf,Primary,Service,US,Lagged perf,IV,Non-top-journal
+822,822|Subramony & Holtom ,2011,64 Regional offices of a temporary help services (THS) firm in the US,64,0.479999989,Layoff,Customer satisfaction,Primary,Service,US,Lagged perf,IV,Non-top-journal
+822,822|Subramony & Holtom ,2011,64 Regional offices of a temporary help services (THS) firm in the US,64,-0.075000003,Layoff,Customer satisfaction,Primary,Service,US,Lagged perf,IV,Non-top-journal
+1,1|Arthur ,1994,US steel minimills,28,-0.079999998,Total,Workforce Perf,Primary,Manufacturing,US,Cross-sectional,IV,Top-journal
+1,1|Arthur ,1994,US steel minimills,25,-0.159999996,Total,Quality,Primary,Manufacturing,US,Cross-sectional,IV,Top-journal
+3,3|Bingley & Westergaard-Nielsen ,2004,Denmark IDA (labor market data) - 7118 companies,28265,0,Total,Financial Perf,All,Multiple,Europe,Panel,IV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,-0.230000004,Total,Financial Perf,Executive,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,-0.310000002,Total,Overall Perf,Executive,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,0.029999999,Total,Workforce Perf,Primary,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,-0.239999995,Total,Overall Perf,Executive,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,-0.310000002,Total,Overall Perf,Primary,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,-0.170000002,Total,Financial Perf,Primary,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,-0.079999998,Total,Workforce Perf,Executive,Multiple,US,Cross-sectional,DV,Non-top-journal
+4,4|Bird & Beechler ,1995,Japanese subsidiaries in the US,64,0.050000001,Total,Overall Perf,Primary,Multiple,US,Cross-sectional,DV,Non-top-journal
+5,5|Boselie et al. ,2003,Netherlands companies,132,0.159999996,Total,Employee work attitudes,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+5,5|Boselie et al. ,2003,Netherlands companies,132,-0.02,Total,Employee work attitudes,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+6,6|Cannella & Hambrick ,1993,Post acquisition firms in the US,96,-0.25,Total,Financial Perf,Executive,Multiple,US,Lagged perf,IV,Top-journal
+6,6|Cannella & Hambrick ,1993,Post acquisition firms in the US,96,-0.25,Total,Financial Perf,Executive,Multiple,US,Cross-sectional,IV,Top-journal
+6,6|Cannella & Hambrick ,1993,Post acquisition firms in the US,96,-0.029999999,Total,Financial Perf,Executive,Multiple,US,Lagged perf,IV,Top-journal
+7,7|Chow et al. ,2008,Chinese firms,241,-0.059999999,Total,Workforce Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+7,7|Chow et al. ,2008,Chinese firms,241,-0.170000002,Total,Overall Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+7,7|Chow et al. ,2008,Chinese firms,241,-0.01,Total,Financial Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+7,7|Chow et al. ,2008,Chinese firms,265,-0.039999999,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Control,Top-journal
+7,7|Chow et al. ,2008,Chinese firms,265,-0.189999998,Total,Customer satisfaction,Secondary,Food,US,Cross-sectional,Control,Top-journal
+8,8|Detert et al. ,2007,U.S. Food-Co restaurants,265,-0.07,Total,Workforce Perf,Primary,Food,US,Cross-sectional,Control,Top-journal
+8,8|Detert et al. ,2007,U.S. Food-Co restaurants,265,-0.029999999,Total,Workforce Perf,Secondary,Food,US,Cross-sectional,Control,Top-journal
+8,8|Detert et al. ,2007,U.S. Food-Co restaurants,265,-0.100000001,Total,Financial Perf,Secondary,Food,US,Cross-sectional,Control,Top-journal
+8,8|Detert et al. ,2007,U.S. Food-Co restaurants,265,0.02,Total,Financial Perf,Primary,Food,US,Cross-sectional,Control,Top-journal
+9,9|Gelade & Ivery ,2003,Branch Director Group members (BDG) in Decision-Making Units (DMU) of a bank branches,137,-0.569999993,Total,Customer satisfaction,Primary,Banking,US,Cross-sectional,DV,Top-journal
+9,9|Gelade & Ivery ,2003,Branch Director Group members (BDG) in Decision-Making Units (DMU) of a bank branches,136,-0.319999993,Total,Workforce Perf,Primary,Banking,US,Cross-sectional,DV,Top-journal
+9,9|Gelade & Ivery ,2003,Branch Director Group members (BDG) in Decision-Making Units (DMU) of a bank branches,137,-0.779999971,Total,Overall Perf,Primary,Banking,US,Cross-sectional,DV,Top-journal
+13,13|Glebbeek & Bax ,2004,Temporary job agency in Netherlands,110,-0.185000002,Total,Financial Perf,Primary,Service,Europe,Lagged perf,IV,Top-journal
+13,13|Glebbeek & Bax ,2004,Temporary job agency in Netherlands,110,-0.119999997,Total,Financial Perf,Primary,Service,Europe,Cross-sectional,IV,Top-journal
+15,15|Guthrie ,2010,Single industry firms from COMPUSTAT and Execucomp,554,-0.2236,Total,Financial Perf,Executive,Multiple,US,Lagged perf,IV,Non-top-journal
+16,16|Guthrie ,2001,New Zealand companies,164,-0.050000001,Total,Workforce Perf,All,Multiple,Asia,Cross-sectional,IV,Top-journal
+17,17|Hatch & Dyer ,2004,Semi-conductor facilities across countries,702,-0.050000001,Total,Quality,Primary,Manufacturing,All,Cross-sectional,IV,Top-journal
+19,19|Huselid ,1995,Publicly held US firms,816,-0.029999999,Total,Financial Perf,All,Multiple,US,Cross-sectional,Mediator,Top-journal
+19,19|Huselid ,1995,Publicly held US firms,816,-0.100000001,Total,Financial Perf,All,Multiple,US,Cross-sectional,Mediator,Top-journal
+19,19|Huselid ,1995,Publicly held US firms,816,-0.239999995,Total,Workforce Perf,All,Multiple,US,Cross-sectional,Mediator,Top-journal
+20,20|Keck ,1997,Cement stable,438,0.029999999,Total,Financial Perf,Executive,Manufacturing,US,Lagged perf,IV,Top-journal
+21,21|Keck ,1997,Cement turbulent,280,-0.039999999,Total,Financial Perf,Executive,Manufacturing,US,Lagged perf,IV,Top-journal
+22,22|Keck ,1997,Minicomputer turbulent,18,-0.5,Total,Financial Perf,Executive,Manufacturing,US,Lagged perf,IV,Top-journal
+23,23|Koslowsky & Locke ,1989,"Large retail outlets, all part of a national chain of stores",290,-0.02,Total,Financial Perf,Secondary,Service,US,Cross-sectional,IV,Non-top-journal
+23,23|Koslowsky & Locke ,1989,"Large retail outlets, all part of a national chain of stores",290,0.039999999,Total,Workforce Perf,Secondary,Service,US,Cross-sectional,IV,Non-top-journal
+24,24|Koys ,2001,Regional restaurant chain,28,0,Total,Financial Perf,All,Food,US,Cross-sectional,IV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,24,-0.319999993,Total,Customer satisfaction,All,Food,US,Lagged perf,IV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,24,-0.100000001,Total,Customer satisfaction,All,Food,US,Cross-sectional,IV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,28,0.100000001,Total,Financial Perf,All,Food,US,Cross-sectional,IV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,28,-0.280000001,Total,Financial Perf,All,Food,US,Cross-sectional,DV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,28,-0.219999999,Total,Financial Perf,All,Food,US,Lagged perf,IV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,28,-0.239999995,Total,Financial Perf,All,Food,US,Cross-sectional,DV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,28,-0.200000003,Total,Financial Perf,All,Food,US,Lagged perf,IV,Top-journal
+24,24|Koys ,2001,Regional restaurant chain,24,0.079999998,Total,Customer satisfaction,All,Food,US,Cross-sectional,DV,Top-journal
+25,25|Leveck & Jones ,1996,Inpatient (acute care) nusring units at four hospitals,63,-0.239999995,Total,Quality,Primary,Hospital,US,Cross-sectional,DV,Non-top-journal
+27,27|Mueller & Price ,1989,work units in five hospitals,115,-0.129999995,Total,Employee work attitudes,Primary,Hospital,US,Lagged perf,IV,Non-top-journal
+27,27|Mueller & Price ,1989,work units in five hospitals,115,-0.330000013,Total,Employee work attitudes,Primary,Hospital,US,Lagged perf,IV,Non-top-journal
+28,28|Ployhart et al. ,2011,"franchises from a large, U.S.-based quick service organization (restaurants)",238,-0.07,Total,Workforce Perf,All,Service,US,Cross-sectional,Control,Top-journal
+28,28|Ployhart et al. ,2011,"franchises from a large, U.S.-based quick service organization (restaurants)",238,-0.5,Total,Financial Perf,All,Service,US,Cross-sectional,Control,Top-journal
+28,28|Ployhart et al. ,2011,"franchises from a large, U.S.-based quick service organization (restaurants)",238,-0.449999988,Total,Customer satisfaction,All,Service,US,Cross-sectional,Control,Top-journal
+29,29|Ployhart et al. ,2009,"retail service associates nested within stores from a single, large, retail org.",1036,0.01,Total,Financial Perf,All,Service,US,Cross-sectional,Control,Top-journal
+29,29|Ployhart et al. ,2009,"retail service associates nested within stores from a single, large, retail org.",1036,0.109999999,Total,Workforce Perf,All,Service,US,Cross-sectional,Control,Top-journal
+29,29|Ployhart et al. ,2009,"retail service associates nested within stores from a single, large, retail org.",1036,0.115000002,Total,Workforce Perf,All,Service,US,Lagged perf,Control,Top-journal
+29,29|Ployhart et al. ,2009,"retail service associates nested within stores from a single, large, retail org.",1036,0.015,Total,Financial Perf,All,Service,US,Lagged perf,Control,Top-journal
+29,29|Ployhart et al. ,2009,"retail service associates nested within stores from a single, large, retail org.",1036,-0.050000001,Total,Workforce Perf,All,Service,US,Cross-sectional,Control,Top-journal
+29,29|Ployhart et al. ,2009,"retail service associates nested within stores from a single, large, retail org.",1036,-0.059999999,Total,Workforce Perf,All,Service,US,Lagged perf,Control,Top-journal
+30,30|Richard & Johnson ,2001,banks in California and Kentucky,73,-0.189999998,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Non-top-journal
+30,30|Richard & Johnson ,2001,banks in California and Kentucky,73,0.01,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Non-top-journal
+31,31|Riordan et al. ,2005,Insurance companies in the U.S. and Canada,92,-0.230000004,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Non-top-journal
+31,31|Riordan et al. ,2005,Insurance companies in the U.S. and Canada,92,0.079999998,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Non-top-journal
+31,31|Riordan et al. ,2005,Insurance companies in the U.S. and Canada,92,0.090000004,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Non-top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,-0.115000002,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,-0.219999999,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,-0.289999992,Total,Customer satisfaction,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,-0.064999998,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,0.059999999,Total,Overall Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,0.07,Total,Workforce Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,0.125,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,-0.094999999,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+32,32|Ryan et al. ,1996,"142 Branches of a large automobile financial services (but considered as different organizations, not units)",131,-0.165000007,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Top-journal
+34,34|Shaw et al. ,2005,domestic stores of an international restaurant chain,38,-0.200000003,Total,Workforce Perf,All,MultipleBanking,US,Lagged perf,Moderator,Top-journal
+34,34|Shaw et al. ,2005,domestic stores of an international restaurant chain,38,-0.319999993,Total,Workforce Perf,All,MultipleBanking,US,Lagged perf,Moderator,Top-journal
+34,34|Shaw et al. ,2005,domestic stores of an international restaurant chain,38,-0.25,Total,Workforce Perf,All,MultipleBanking,US,Lagged perf,Moderator,Top-journal
+39,39|Shevchuk et al. ,2007,Elementary schools in a large US district,593,-0.25,Total,Workforce Perf,Primary,Education,US,Cross-sectional,IV,Non-top-journal
+40,40|Shevchuk et al. ,2007,Elementary schools in a large US district,182,-0.360000014,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Non-top-journal
+41,41|Shortell et al. ,1994,42 ICUs at Nonfederal US hospitals,42,-0.02,Total,Workforce Perf,Primary,Hospital,US,Cross-sectional,DV,Non-top-journal
+41,41|Shortell et al. ,1994,42 ICUs at Nonfederal US hospitals,42,-0.36500001,Total,Quality,Primary,Hospital,US,Cross-sectional,DV,Non-top-journal
+41,41|Shortell et al. ,1994,42 ICUs at Nonfederal US hospitals,42,-0.200000003,Total,Workforce Perf,Primary,Hospital,US,Cross-sectional,DV,Non-top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,11325,-0.033,Total,Customer satisfaction,Primary,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,12717,-0.004,Total,Financial Perf,Primary,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,12717,-0.059999999,Total,Financial Perf,All,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,12717,-0.048,Total,Financial Perf,Primary,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,11325,0.002,Total,Customer satisfaction,Primary,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,11325,-0.011,Total,Customer satisfaction,Secondary,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,12709,-0.066,Total,Financial Perf,Secondary,MultipleBanking,US,Cross-sectional,IV,Top-journal
+45,45|Ton & Huckman ,2008,268 Borders stores,11325,0.007,Total,Customer satisfaction,All,MultipleBanking,US,Cross-sectional,IV,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.119999997,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.180000007,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.150000006,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.150000006,Total,Financial Perf,Primary,Food,US,Lagged perf,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.097999997,Total,Financial Perf,Primary,Food,US,Lagged perf,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.146666661,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.150000006,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.075999998,Total,Customer satisfaction,Primary,Food,US,Lagged perf,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.125,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.100000001,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.079999998,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.140000001,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.129999995,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.150000006,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.115000002,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.170000002,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.140000001,Total,Customer satisfaction,Primary,Food,US,Lagged perf,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.230000004,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.119999997,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.02,Total,Financial Perf,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.189999998,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+47,47|Van Iddekinge et al. ,2009,A large fastfood org.,861,-0.146666661,Total,Customer satisfaction,Primary,Food,US,Cross-sectional,Mediator,Top-journal
+48,48|Vandenberg et al. ,1999,49 life insurance companies in the US and Canada,49,-0.159999996,Total,Financial Perf,All,Banking,US,Cross-sectional,DV,Non-top-journal
+50,50|Wiersema & Bantel ,1993,Large manufacturing companies from Fortune,85,-0.216999993,Total,Financial Perf,Executive,Manufacturing,US,Cross-sectional,DV,Top-journal
+50,50|Wiersema & Bantel ,1993,Large manufacturing companies from Fortune,85,-0.248999998,Total,Financial Perf,Executive,Manufacturing,US,Cross-sectional,DV,Top-journal
+50,50|Wiersema & Bantel ,1993,Large manufacturing companies from Fortune,85,-0.112999998,Total,Financial Perf,Executive,Manufacturing,US,Cross-sectional,DV,Top-journal
+53,53|Paul & Anantharaman ,2003,34 Indian software companies (and 370 employees),34,-0.400000006,Total,Financial Perf,Primary,MultipleManufacturing,Asia,Cross-sectional,Mediator,Non-top-journal
+53,53|Paul & Anantharaman ,2003,34 Indian software companies (and 370 employees),34,-0.230000004,Total,Financial Perf,Primary,MultipleManufacturing,Asia,Cross-sectional,Mediator,Non-top-journal
+53,53|Paul & Anantharaman ,2003,34 Indian software companies (and 370 employees),34,-0.379999995,Total,Workforce Perf,Primary,MultipleManufacturing,Asia,Cross-sectional,Mediator,Non-top-journal
+53,53|Paul & Anantharaman ,2003,34 Indian software companies (and 370 employees),34,-0.460000008,Total,Quality,Primary,MultipleManufacturing,Asia,Cross-sectional,Mediator,Non-top-journal
+53,53|Paul & Anantharaman ,2003,34 Indian software companies (and 370 employees),34,-0.50999999,Total,Workforce Perf,Primary,MultipleManufacturing,Asia,Cross-sectional,Mediator,Non-top-journal
+54,"54|Guest, Conway, & Dewe ",2004,?,1308,-0.25999999,Total,Workforce Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+55,55|Guest et al. ,2003,UK companies,366,-0.085000001,Total,Financial Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+55,55|Guest et al. ,2003,UK companies,366,-0.085000001,Total,Workforce Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+56,56|Hansson ,2007,Companies in European countries,4078,-0.01,Total,Financial Perf,All,Multiple,Europe,Cross-sectional,Control,Non-top-journal
+56,56|Hansson ,2007,Companies in European countries,4313,0,Total,Financial Perf,All,Multiple,Europe,Cross-sectional,Control,Non-top-journal
+58,58|Siebert & Zubanov ,2009,325 UK clothing retailers,325,-0.239999995,Total,Workforce Perf,Primary,MultipleBanking,Europe,Panel,IV,Top-journal
+59,59|Lynn ,2002,Casual-dining restaurants in chain in midwestern US,325,-0.02,Total,Workforce Perf,Secondary,MultipleBanking,Europe,Panel,IV,Top-journal
+59,59|Lynn ,2002,Casual-dining restaurants in chain in midwestern US,59,-0.340000004,Total,Customer satisfaction,All,Food,US,Cross-sectional,IV,Non-top-journal
+59,59|Lynn ,2002,Casual-dining restaurants in chain in midwestern US,59,-0.300000012,Total,Workforce Perf,All,Food,US,Cross-sectional,IV,Non-top-journal
+59,59|Lynn ,2002,Casual-dining restaurants in chain in midwestern US,59,-0.140000001,Total,Workforce Perf,All,Food,US,Cross-sectional,IV,Non-top-journal
+60,60|Shen & Cannella ,2002,"Large, publicly traded US corporations experienced CEO succession",228,-0.180000007,Total,Financial Perf,Executive,Multiple,US,Cross-sectional,IV,Top-journal
+61,61|Baron et al. ,2001,"Young, high-tech firms in California's Silicon Valley",58,0.029999999,Total,Workforce Perf,All,MultipleManufacturing,US,Panel,IV,Top-journal
+62,62|Cooil et al. ,2009,"a large, multinational retail grocery superstore in Western Europe",107,-0.209999993,Total,Customer satisfaction,All,MultipleBanking,Europe,Cross-sectional,DV,Non-top-journal
+62,62|Cooil et al. ,2009,"a large, multinational retail grocery superstore in Western Europe",107,0.100000001,Total,Workforce Perf,All,MultipleBanking,Europe,Cross-sectional,DV,Non-top-journal
+63,63|Donoghue ,2010,National nursing home survey data,1028,-0.108539999,Total,Workforce Perf,Secondary,Hospital,US,Cross-sectional,DV,Non-top-journal
+63,63|Donoghue ,2010,National nursing home survey data,1051,-0.135560006,Total,Workforce Perf,All,Hospital,US,Cross-sectional,DV,Non-top-journal
+63,63|Donoghue ,2010,National nursing home survey data,1039,-0.059289999,Total,Workforce Perf,Secondary,Hospital,US,Cross-sectional,DV,Non-top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,3844,-0.090000004,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,4315,-0.039999999,Total,Workforce Perf,Primary,Education,US,Cross-sectional,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,2892,-0.239999995,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,3369,-0.159999996,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,2892,-0.189999998,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,4315,-0.07,Total,Workforce Perf,Primary,Education,US,Cross-sectional,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,3844,-0.109999999,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Top-journal
+65,65|Meier & Hickin ,2007,Schools in Texas,3369,-0.159999996,Total,Workforce Perf,Primary,Education,US,Lagged perf,IV,Top-journal
+66,66|Meier et al. ,2006,Schools in Texas,3117,-0.119999997,Total,Workforce Perf,Primary,Education,US,Cross-sectional,Control,Top-journal
+66,66|Meier et al. ,2006,Schools in Texas,2897,-0.029999999,Total,Quality,Primary,Education,US,Cross-sectional,Control,Top-journal
+66,66|Meier et al. ,2006,Schools in Texas,2610,-0.129999995,Total,Workforce Perf,Primary,Education,US,Cross-sectional,Control,Top-journal
+67,67|Temkin-Greener et al. ,2009,Nursing homes in NY,160,-0.244499996,Total,Overall Perf,Primary,Hospital,US,Cross-sectional,Control,Non-top-journal
+68,68|Verburg et al. ,2007,companies database of a professional Association for Personnel Management,140,-0.039999999,Total,Overall Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+71,71|Guthrie et al. ,2009,Companies from Irish Top 1000 companies,149,0.054000001,Total,Workforce Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+72,72|JMS under review ,2012,Outpatient care at medical centers within the Veterans Health Administration,114,-0.209999993,Total,Customer satisfaction,Primary,Hospital,US,Cross-sectional,IV,Non-top-journal
+72,72|JMS under review ,2012,Outpatient care at medical centers within the Veterans Health Administration,114,-0.200000003,Total,Workforce Perf,Primary,Hospital,US,Cross-sectional,IV,Non-top-journal
+73,73|Chow & Liu ,2009,451 Chinese companies,451,-0.180000007,Total,Overall Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+75,"75|Allen, Ericksen, Collins ",2010,Small-size publicly-traded HR oursourcing firms (less than 200 employees),67,-0.25,Total,Workforce Perf,All,Service,US,Lagged perf,DV,Non-top-journal
+76,76|Eriksen ,2011,2929 Danish manufacturing firms,22545,-0.02,Total,Workforce Perf,All,Manufacturing,Europe,Cross-sectional,IV,Non-top-journal
+79,"79|Park, Shaw, & Kim ",2011,3 year data from 25 business units of a large Korean corporation,48,-0.289999992,Total,Financial Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+79,"79|Park, Shaw, & Kim ",2011,3 year data from 25 business units of a large Korean corporation,48,-0.129999995,Total,Financial Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+79,"79|Park, Shaw, & Kim ",2011,3 year data from 25 business units of a large Korean corporation,75,-0.050000001,Total,Workforce Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+85,85|Peterson & Luthans ,2006,21 fast-food franchises in the US,21,-0.469999999,Total,Financial Perf,All,Food,US,Cross-sectional,DV,Top-journal
+85,85|Peterson & Luthans ,2006,21 fast-food franchises in the US,21,-0.49000001,Total,Workforce Perf,All,Food,US,Cross-sectional,DV,Top-journal
+87,87|Wiersema & Bird ,1993,40 large-sized Japanese companies from Tokyo Stock Exchange,40,-0.02,Total,Financial Perf,Executive,Multiple,Asia,Cross-sectional,DV,Top-journal
+91,91|Ericksen ,2011,Units of a large home improvement retailer,808,-0.170000002,Total,Workforce Perf,All,MultipleBanking,US,Lagged perf,IV,Non-top-journal
+92,92|Kim & Park ,2011,KOSDAQ startup firms,515,0.148000002,Total,Financial Perf,Executive,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+96,96|Way ,2002,Establishments in the US,386,-0.089000002,Total,Workforce Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+96,96|Way ,2002,Establishments in the US,386,-0.090999998,Total,Workforce Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+97,97|Watrous et al. ,2006,Work units adopted ProMES intervention,53,-0.370000005,Total,Overall Perf,Primary,Multiple,All,Lagged perf,IV,Non-top-journal
+97,97|Watrous et al. ,2006,Work units adopted ProMES intervention,53,-0.189999998,Total,Overall Perf,All,Multiple,All,Cross-sectional,IV,Non-top-journal
+98,98|Stavrou ,2005,Organizations in EU,2811,0.01,Total,Employee work attitudes,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+98,98|Stavrou ,2005,Organizations in EU,2811,0.01,Total,Overall Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+99,99|Boyne et al. ,2011,English local governments,587,-0.180099994,Total,Overall Perf,Executive,MultipleHospital,Europe,Lagged perf,IV,Top-journal
+99,99|Boyne et al. ,2011,English local governments,587,-0.206599995,Total,Overall Perf,Executive,MultipleHospital,Europe,Lagged perf,IV,Top-journal
+99,99|Boyne et al. ,2011,English local governments,587,-0.167099997,Total,Overall Perf,Executive,MultipleHospital,Europe,Lagged perf,IV,Top-journal
+99,99|Boyne et al. ,2011,English local governments,587,-0.141499996,Total,Overall Perf,Executive,MultipleHospital,Europe,Lagged perf,IV,Top-journal
+101,101|Sacco & Schmitt ,2005,US quick-service restaurants,2373,0,Total,Financial Perf,Secondary,Food,US,Panel,IV,Top-journal
+102,102|MacKenzie et al. ,2011,Limited-menu restaurants in midwestern US,150,-0.200000003,Total,Financial Perf,All,Food,US,Cross-sectional,DV,Top-journal
+102,102|MacKenzie et al. ,2011,Limited-menu restaurants in midwestern US,150,-0.230000004,Total,Workforce Perf,All,Food,US,Cross-sectional,DV,Top-journal
+102,102|MacKenzie et al. ,2011,Limited-menu restaurants in midwestern US,150,-0.349999994,Total,Employee work attitudes,All,Food,US,Cross-sectional,DV,Top-journal
+104,104|Eriksen ,2011,Denmark firms,2926,-0.100000001,Total,Financial Perf,All,Manufacturing,Europe,Panel,IV,Non-top-journal
+104,104|Eriksen ,2011,Denmark firms,2921,-0.01,Total,Financial Perf,All,Manufacturing,Europe,Panel,IV,Non-top-journal
+104,104|Eriksen ,2011,Denmark firms,2921,-0.039999999,Total,Workforce Perf,All,Manufacturing,Europe,Panel,IV,Non-top-journal
+106,106|Siebert & Zubanov ,2010,UK retailers,245,0.171200007,Total,Workforce Perf,Primary,MultipleBanking,Europe,Cross-sectional,Control,Top-journal
+108,108|Miah & Bird ,2007,South Asian local companies,182,-0.029999999,Total,Overall Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+108,108|Miah & Bird ,2007,Japanese companies in Japan,139,-0.01,Total,Overall Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+108,108|Miah & Bird ,2007,Japanese companies in South Asia,176,-0.050000001,Total,Overall Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+110,110|Simon et al. ,2012,Establishments in Spanish fashion retail group,232,0.370000005,Total,Financial Perf,All,MultipleBanking,Europe,Panel,IV,Non-top-journal
+110,110|Simon et al. ,2012,Establishments in Spanish fashion retail group,232,0.400000006,Total,Workforce Perf,All,MultipleBanking,Europe,Panel,IV,Non-top-journal
+2,2|Batt ,2002,Call center,326,-0.100000001,Voluntary,Workforce Perf,Secondary,Service,US,Cross-sectional,Mediator,Top-journal
+10,10|George & Bettenhausen ,1990,Stores of a national retail org.,33,-0.25,Voluntary,Workforce Perf,Primary,MultipleBanking,US,Lagged perf,DV,Top-journal
+11,11|Faems et al. ,2005,Belgian small and medium enterprises (SMEs) - at most 100 employees,416,-0.055,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+11,11|Faems et al. ,2005,Belgian small and medium enterprises (SMEs) - at most 100 employees,416,0.02,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+11,11|Faems et al. ,2005,Belgian small and medium enterprises (SMEs) - at most 100 employees,416,-0.050000001,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+11,11|Faems et al. ,2005,Belgian small and medium enterprises (SMEs) - at most 100 employees,416,-0.07,Voluntary,Workforce Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+12,12|Ghebregiorgis & Karsten ,2007,Eritrea firms,82,-0.029999999,Voluntary,Employee work attitudes,All,Manufacturing,Europe,Cross-sectional,DV,Non-top-journal
+12,12|Ghebregiorgis & Karsten ,2007,Eritrea firms,82,-0.090000004,Voluntary,Employee work attitudes,All,Manufacturing,Europe,Cross-sectional,DV,Non-top-journal
+12,12|Ghebregiorgis & Karsten ,2007,Eritrea firms,82,0.01,Voluntary,Workforce Perf,All,Manufacturing,Europe,Cross-sectional,DV,Non-top-journal
+14,14|Griffith ,2006,Elementary schools,117,-0.07,Voluntary,Employee work attitudes,Primary,Education,US,Cross-sectional,DV,Non-top-journal
+14,14|Griffith ,2006,Elementary schools,117,-0.270000011,Voluntary,Workforce Perf,Primary,Education,US,Cross-sectional,DV,Non-top-journal
+18,18|Hausknecht et al. ,2009,A large leisure and hospitality organization,75,-0.310000002,Voluntary,Customer satisfaction,Secondary,Service,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.430000007,Voluntary,Workforce Perf,All,Banking,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.469999999,Voluntary,Financial Perf,All,Banking,US,Cross-sectional,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.560000002,Voluntary,Workforce Perf,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.49000001,Voluntary,Financial Perf,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.460000008,Voluntary,Customer satisfaction,All,Banking,US,Lagged perf,IV,Top-journal
+26,26|McElroy et al. ,2001,Units of a national financial services company (mortgage banking),31,-0.579999983,Voluntary,Financial Perf,All,Banking,US,Lagged perf,IV,Top-journal
+33,33|Sels et al. ,2006,Small Belgian companies (10 to 100 employees),416,0.079999998,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+33,33|Sels et al. ,2006,Small Belgian companies (10 to 100 employees),416,0.059999999,Voluntary,Workforce Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+33,33|Sels et al. ,2006,Small Belgian companies (10 to 100 employees),416,0.059999999,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+33,33|Sels et al. ,2006,Small Belgian companies (10 to 100 employees),416,0.039999999,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+33,33|Sels et al. ,2006,Small Belgian companies (10 to 100 employees),416,-0.189999998,Voluntary,Workforce Perf,All,Multiple,Europe,Cross-sectional,Mediator,Non-top-journal
+35,35|Shaw et al. ,2005,Plants of the American Concrete Pipe Association,120,-0.050000001,Voluntary,Workforce Perf,Primary,Manufacturing,US,Cross-sectional,IV,Top-journal
+35,35|Shaw et al. ,2005,Plants of the American Concrete Pipe Association,120,-0.02,Voluntary,Safety-related,Primary,Manufacturing,US,Cross-sectional,IV,Top-journal
+36,36|Shaw et al. ,2005,Trucking companies,356,-0.300000012,Voluntary,Workforce Perf,Primary,Trucking,US,Lagged perf,IV,Top-journal
+36,36|Shaw et al. ,2005,Trucking companies,325,0.119999997,Voluntary,Financial Perf,Primary,Trucking,US,Lagged perf,IV,Top-journal
+36,36|Shaw et al. ,2005,Trucking companies,325,-0.079999998,Voluntary,Financial Perf,Primary,Trucking,US,Lagged perf,IV,Top-journal
+36,36|Shaw et al. ,2005,Trucking companies,325,0.059999999,Voluntary,Workforce Perf,Primary,Trucking,US,Lagged perf,IV,Top-journal
+36,36|Shaw et al. ,2005,Trucking companies,347,-0.090000004,Voluntary,Safety-related,Primary,Trucking,US,Lagged perf,IV,Top-journal
+37,37|Shaw et al. ,2012,Korean companies,365,-0.170000002,Voluntary,Workforce Perf,All,Multiple,Asia,Lagged perf,IV,Non-top-journal
+38,38|Shaw et al. ,2012,Single unit supermarkets,259,-0.029999999,Voluntary,Workforce Perf,Primary,Food,US,Lagged perf,IV,Non-top-journal
+38,38|Shaw et al. ,2012,Single unit supermarkets,259,-0.180000007,Voluntary,Safety-related,Primary,Food,US,Lagged perf,IV,Non-top-journal
+42,42|Sowinski et al. ,2008,automotive service stores of an organization,129,-0.360000014,Voluntary,Customer satisfaction,All,Service,US,Cross-sectional,DV,Non-top-journal
+42,42|Sowinski et al. ,2008,automotive service stores of an organization,129,-0.140000001,Voluntary,Financial Perf,All,Service,US,Cross-sectional,DV,Non-top-journal
+43,43|Sun et al. ,2007,Hotels in China,81,-0.090000004,Voluntary,Workforce Perf,All,Service,Asia,Cross-sectional,DV,Top-journal
+44,44|Takeuchi et al. ,2009,76 business units from 56 Japanese firms,76,-0.126000002,Voluntary,Workforce Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+46,46|Tremblay & Chenevert ,2008,Canadian private companies,252,-0.039999999,Voluntary,Workforce Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+46,46|Tremblay & Chenevert ,2008,Canadian private companies,252,-0.159999996,Voluntary,Overall Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+49,49|Van der Vegt et al. ,2010,Self-managing production teams in a large truck manufacturing plant of the Volvo Company in Sweden,47,-0.550000012,Voluntary,Quality,Primary,Manufacturing,Europe,Lagged perf,IV,Non-top-journal
+51,51|Yanadori & Kato ,2007,"Japanese publicly traded, private firms",330,-0.100000001,Voluntary,Workforce Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+52,52|Yanadori & Kato ,2007,"Japanese publicly traded, private firms",301,-0.039999999,Voluntary,Workforce Perf,All,Multiple,Asia,Cross-sectional,IV,Non-top-journal
+64,64|Galang ,2004,Companies in Philippines,103,-0.219999999,Voluntary,Overall Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+69,69|Yanadori & Kato ,2009,Publicly traded Japanese companies,266,-0.064000003,Voluntary,Financial Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+70,70|Zheng ,2009,Asia Pacific MNCs,281,0.129999995,Voluntary,Overall Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+70,70|Zheng ,2009,Asia Pacific MNCs,281,-0.01,Voluntary,Overall Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+70,70|Zheng ,2009,Asia Pacific MNCs,281,0.119999997,Voluntary,Overall Perf,All,Multiple,Asia,Cross-sectional,DV,Non-top-journal
+74,74|Messersmith & Guthrie ,2010,US companies from NETS,215,-0.159999996,Voluntary,Workforce Perf,All,Multiple,US,Lagged perf,Mediator,Non-top-journal
+74,74|Messersmith & Guthrie ,2010,US companies from NETS,215,-0.079999998,Voluntary,Workforce Perf,All,Multiple,US,Lagged perf,Mediator,Non-top-journal
+74,74|Messersmith & Guthrie ,2010,US companies from NETS,215,-0.209999993,Voluntary,Workforce Perf,All,Multiple,US,Lagged perf,Mediator,Non-top-journal
+77,77|Flood et al. ,2010,132 organizations operating in Ireland,132,-0.170000002,Voluntary,Workforce Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+78,78|Guthrie et al. ,2010,US manufacturing firms (archival data),124,0.100000001,Voluntary,Workforce Perf,All,Manufacturing,US,Cross-sectional,DV,Non-top-journal
+78,78|Guthrie et al. ,2010,US manufacturing firms (archival data),124,-0.07,Voluntary,Workforce Perf,All,Manufacturing,US,Cross-sectional,DV,Non-top-journal
+81,81|Subramony & Holtom ,2011,46 Regional offices of a temporary help services (THS) firm in the US,46,-0.453333318,Voluntary,Customer satisfaction,Primary,Service,US,Lagged perf,IV,Non-top-journal
+81,81|Subramony & Holtom ,2011,46 Regional offices of a temporary help services (THS) firm in the US,46,-0.419999987,Voluntary,Customer satisfaction,Primary,Service,US,Lagged perf,IV,Non-top-journal
+81,81|Subramony & Holtom ,2011,46 Regional offices of a temporary help services (THS) firm in the US,46,-0.239999995,Voluntary,Financial Perf,Primary,Service,US,Lagged perf,IV,Non-top-journal
+81,81|Subramony & Holtom ,2011,46 Regional offices of a temporary help services (THS) firm in the US,46,0.050000001,Voluntary,Financial Perf,Primary,Service,US,Lagged perf,IV,Non-top-journal
+83,83|Batt & Colvin ,2011,US call centers in the telecommunications industry,339,-0.140000001,Voluntary,Customer satisfaction,Secondary,Service,US,Panel,Mediator,Top-journal
+84,84|Angle & Perry ,1981,24 organizations operating fixed-route bus services in western US,22,0.150000006,Voluntary,Financial Perf,All,Trucking,US,Cross-sectional,DV,Top-journal
+84,84|Angle & Perry ,1981,24 organizations operating fixed-route bus services in western US,20,0.050000001,Voluntary,Financial Perf,All,Trucking,US,Cross-sectional,DV,Top-journal
+86,86|Richardson & Vandenberg ,2005,185 work units in seven US organizations,167,-0.230000004,Voluntary,Workforce Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+93,93|van Jaarsveld & Yanadori ,2011,Call centers in Canada,179,-0.119999997,Voluntary,Quality,Secondary,Service,US,Cross-sectional,DV,Non-top-journal
+93,93|van Jaarsveld & Yanadori ,2011,Call centers in Canada,179,0.079999998,Voluntary,Customer satisfaction,Secondary,Service,US,Cross-sectional,DV,Non-top-journal
+93,93|van Jaarsveld & Yanadori ,2011,Call centers in Canada,179,-0.340000004,Voluntary,Employee work attitudes,Secondary,Service,US,Cross-sectional,DV,Non-top-journal
+93,93|van Jaarsveld & Yanadori ,2011,Call centers in Canada,179,-0.07,Voluntary,Quality,Secondary,Service,US,Cross-sectional,DV,Non-top-journal
+94,94|Armstrong et al. ,2010,Irish Times Top 1000 companies,132,-0.374000013,Voluntary,Workforce Perf,All,Multiple,Europe,Cross-sectional,DV,Non-top-journal
+95,95|Holman et al. ,2009,Call centers in 17 countries,2359,-0.039999999,Voluntary,Workforce Perf,All,Service,All,Cross-sectional,DV,Top-journal
+96,96|Way ,2002,Establishments in the US,2359,-0.01,Voluntary,Financial Perf,All,Service,All,Cross-sectional,DV,Top-journal
+96,96|Way ,2002,Establishments in the US,2359,0.100000001,Voluntary,Workforce Perf,All,Service,All,Cross-sectional,DV,Top-journal
+96,96|Way ,2002,Establishments in the US,366,-0.092,Voluntary,Workforce Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+96,96|Way ,2002,Establishments in the US,366,-0.131999999,Voluntary,Workforce Perf,All,Multiple,US,Cross-sectional,DV,Non-top-journal
+100,100|Brown et al. ,2009,Establishments in the UK,1900,-0.050000001,Voluntary,Financial Perf,All,Multiple,Europe,Cross-sectional,IV,Non-top-journal
+107,107|Trevor & Nyberg ,2008,Employee-friendly companies submitted to Fortune,267,-0.209999993,Voluntary,Employee work attitudes,Primary,Multiple,US,Cross-sectional,DV,Top-journal
+110,110|Simon et al. ,2012,Establishments in Spanish fashion retail group,232,0.379999995,Voluntary,Workforce Perf,All,MultipleBanking,Europe,Panel,IV,Non-top-journal
+110,110|Simon et al. ,2012,Establishments in Spanish fashion retail group,232,0.189999998,Voluntary,Financial Perf,All,MultipleBanking,Europe,Panel,IV,Non-top-journal
+822,822|Subramony & Holtom ,2011,64 Regional offices of a temporary help services (THS) firm in the US,64,-0.230000004,Voluntary,Workforce Perf,Primary,Service,US,Lagged perf,IV,Non-top-journal
