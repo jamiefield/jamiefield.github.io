@@ -9,17 +9,11 @@ author_profile: true
 
 **Manuscripts under review**
 
-Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Psychological Bulletin</i>.
-
-Field, J. G., Kepes, S., Bosco F. A. (under second round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
-
-Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (under second round review).(Manuscript title hidden to preserve anonymous peer review process). <i>Advancement in Methods and Practices in Psychological Science</i>.
-
-Bosco, F. A., Field, J. G., Rubenstein, A. L., Kepes, S., Oswald, F. L., Uggerslev, K. L., Sheng, Zitong (under review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Management</i>.
-
-Field, J. G., Bosco, F. A., Kraichy, D., Uggerslev, K. L., Geiger, M. K. (under review). Manuscript title hidden to preserve anonymous peer review process. <i>Journal of International Business Studies</i>.
+Field, J. G., Kepes, S., Bosco F. A. (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
 
 **Published papers**
+
+Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (in press). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>.
 
 Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rogelberg, S., G., & Rupp, D., E. (2019). Answers to 18 Questions About Open Science Practices. <i>Journal of Business and Psychology</i>, <i>34</i>, 257-270. doi: [10.1007/s10869-018-9547-8](https://doi.org/10.1007/s10869-018-9547-8).
 
@@ -46,7 +40,8 @@ Open Science Collaboration. (2014). The Reproducibility Project: A model of larg
 
 **Conference presentations**
 
-Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA.
+Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA. Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
+
 
 Bosco, F. A., Oswald, F. L., Field, J. G., & Uggerslev, K. L. (2019, May). Visualizing one million applied psychology findings. Paper presented at the meeting of the European Association of Work and Organizational Psychology, Turin, Italy.
 
