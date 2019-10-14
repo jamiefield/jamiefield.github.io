@@ -40,7 +40,7 @@ Open Science Collaboration. (2014). The Reproducibility Project: A model of larg
 
 **Conference presentations**
 
-Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA. Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
+Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA. *Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
 
 
 Bosco, F. A., Oswald, F. L., Field, J. G., & Uggerslev, K. L. (2019, May). Visualizing one million applied psychology findings. Paper presented at the meeting of the European Association of Work and Organizational Psychology, Turin, Italy.
