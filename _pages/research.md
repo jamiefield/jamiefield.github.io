@@ -13,7 +13,7 @@ Field, J. G., Kepes, S., Bosco F. A. (under third round review). (Manuscript tit
 
 **Published papers**
 
-Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (in press). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>.
+Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (in press). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>. doi: [10.1177/2515245919882693](https://doi.org/10.1177/2515245919882693).
 
 Banks, G. C., Field, J. G., Oswald, F. L., O’Boyle, E. H., Landis, R. S., Rogelberg, S., G., & Rupp, D., E. (2019). Answers to 18 Questions About Open Science Practices. <i>Journal of Business and Psychology</i>, <i>34</i>, 257-270. doi: [10.1007/s10869-018-9547-8](https://doi.org/10.1007/s10869-018-9547-8).
 
@@ -40,8 +40,9 @@ Open Science Collaboration. (2014). The Reproducibility Project: A model of larg
 
 **Conference presentations**
 
-Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA. *Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
+Chang, Y., Field, J. G., Bosco, F. A., & Uggerslev, K. L. (2019, April). Using metaBUS to locate, synthesize, and visualize I-O research findings. Master Tutorial to be presented at the annual meeting of the Society for Industrial and Organizational Psychology, Austin, TX.
 
+Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA. *Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
 
 Bosco, F. A., Oswald, F. L., Field, J. G., & Uggerslev, K. L. (2019, May). Visualizing one million applied psychology findings. Paper presented at the meeting of the European Association of Work and Organizational Psychology, Turin, Italy.
 
