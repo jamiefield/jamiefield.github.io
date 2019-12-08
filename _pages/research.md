@@ -40,9 +40,11 @@ Open Science Collaboration. (2014). The Reproducibility Project: A model of larg
 
 **Conference presentations**
 
-Chang, Y., Field, J. G., Bosco, F. A., & Uggerslev, K. L. (2019, April). Using metaBUS to locate, synthesize, and visualize I-O research findings. Master Tutorial to be presented at the annual meeting of the Society for Industrial and Organizational Psychology, Austin, TX.
+Kay, K., Campion, E., Gabriel, A., Golbodaghi, A., Poeppelman, T., et al. (2020, April). Top trends roundtable forum and communities of engagement kickoff. Alternative Session to be presented at the annual meeting of the Society for Industrial and Organizational Psychology, Austin, TX.
 
-Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute to be presented at the annual meeting of the Southern Management Association, Norfolk, VA. *Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
+Chang, Y., Field, J. G., Bosco, F. A., & Uggerslev, K. L. (2020, April). Using metaBUS to locate, synthesize, and visualize I-O research findings. Master Tutorial to be presented at the annual meeting of the Society for Industrial and Organizational Psychology, Austin, TX.
+
+Field, J. G., Bosco, F. A., Kepes, S. (2019, October). A spoonful of medicine for meta-analysis: Introducing Meta-Sen. Professional development institute presented at the annual meeting of the Southern Management Association, Norfolk, VA. *Submission and presentation materials can be found <a href="https://jamiefield.github.io/research/sma2019">here</a>
 
 Bosco, F. A., Oswald, F. L., Field, J. G., & Uggerslev, K. L. (2019, May). Visualizing one million applied psychology findings. Paper presented at the meeting of the European Association of Work and Organizational Psychology, Turin, Italy.
 
