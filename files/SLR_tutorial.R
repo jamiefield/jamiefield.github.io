@@ -245,7 +245,7 @@
   ## Simple Linear Regression (i.e., one predictor and one outcome)
   #http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
   
-  model <- lm(turnoverIntention ~ Performance, data = group2)
+  model <- lm(turnoverIntention ~ Performance, data = dat)
   summary(model)
   
   summary(model)$r.squared
