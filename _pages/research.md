@@ -9,7 +9,7 @@ author_profile: true
 
 **Manuscripts under review**
 
-Field, J. G., Kepes, S., Bosco F. A. (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
+Field, J. G., Bosco F. A., Kepes, S., (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
 
 **Published papers**
 
