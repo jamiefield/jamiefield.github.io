@@ -4,4 +4,4 @@ excerpt: "Content for MANG 434:001 can be found here"
 collection: portfolio
 ---
 
-TEST
+Students: Check back soon!
