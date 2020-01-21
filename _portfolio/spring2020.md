@@ -11,3 +11,5 @@ collection: portfolio
  
 * ### Course schedule
    * <a href="http://jamiefield.github.io/files/MANG_434_Spring2020_courseCalendar.docx?dl=0">MANG 434:001 Course Schedule</a>
+
+@Students: Keep checking back for more content!
