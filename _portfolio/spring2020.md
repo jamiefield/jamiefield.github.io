@@ -14,6 +14,8 @@ collection: portfolio
    
 * ### Module 1 - Introdution to Business Research Methods
    * <a href="http://jamiefield.github.io/files/The Research Process.pdf?dl=0">The Research Process (PowerPoint)</a>
+   * <a href="http://jamiefield.github.io/files/Using theory to form research questions.pdf?dl=0">Using theory to form research questions (PowerPoint)</a>
+   * <a href="http://jamiefield.github.io/files/NHST.pdf?dl=0">NUll hypothesis significance testing (Handout)</a>
    * <a href="http://jamiefield.github.io/files/Suggested Readings for Module 1_spring2020.zip?dl=0">Suggested Readings for Module 1</a>
 
 @Students: Keep checking back for more content!
