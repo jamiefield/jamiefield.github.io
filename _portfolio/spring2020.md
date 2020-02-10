@@ -25,9 +25,9 @@ collection: portfolio
    * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
       * We will use this .csv file to perform "if" and "vlookup" functions
       
-   * <a href="http://jamiefield.github.io/files/IF_function_II.xlsl?dl=0">IF function examples and exercises</a>
+   * <a href="http://jamiefield.github.io/files/IF_function_II.xlsx?dl=0">IF function examples and exercises</a>
    
-   * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsl?dl=0">WVU Men's Basketball results</a>
+   * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
       * We will use this .csv file to perform "text-to-columns" functions
 
 @Students: Keep checking back for more content!
