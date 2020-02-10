@@ -17,6 +17,9 @@ collection: portfolio
    * <a href="http://jamiefield.github.io/files/Using theory to form research questions.pdf?dl=0">Using theory to form research questions (PowerPoint)</a>
    * <a href="http://jamiefield.github.io/files/NHST.pdf?dl=0">Null hypothesis significance testing (Handout)</a>
    * <a href="http://jamiefield.github.io/files/Suggested Readings for Module 1_spring2020.zip?dl=0">Suggested Readings for Module 1</a>
+   
+   * <a href="http://jamiefield.github.io/files/sample_correlation_matrix.png?dl=0">Sample correlation matrix</a>
+  
 
 * ### Module 2 - Data sources, data types, and survey design
    * <a href="http://jamiefield.github.io/files/M2_Handout_Not_Filled_In.docx?dl=0">Module 2_Handout 1</a>
