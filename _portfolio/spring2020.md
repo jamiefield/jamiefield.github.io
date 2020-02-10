@@ -20,8 +20,14 @@ collection: portfolio
 
 * ### Module 2 - Data sources, data types, and survey design
    * <a href="http://jamiefield.github.io/files/M2_Handout_Not_Filled_In.docx?dl=0">Module 2_Handout 1</a>
+   
+ * ### Excel tutorials
    * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
-
-
+      * We will use this .csv file to perform "if" and "vlookup" functions
+      
+   * <a href="http://jamiefield.github.io/files/IF_function_II.xlsl?dl=0">IF function examples and exercises</a>
+   
+   * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsl?dl=0">WVU Men's Basketball results</a>
+      * We will use this .csv file to perform "text-to-columns" functions
 
 @Students: Keep checking back for more content!
