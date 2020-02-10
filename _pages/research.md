@@ -9,9 +9,11 @@ author_profile: true
 
 **Manuscripts under review**
 
-Field, J. G., Bosco F. A., Kepes, S., (under third round review). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Business and Psychology</i>.
+Slemp, G., Cho, A. S. H., Field, J. G. (preparing first revision). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Vocational Behavior</i>. 
 
 **Published papers**
+
+Field, J. G., Bosco F. A., Kepes, S., (in press). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>.
 
 Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (in press). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>. doi: [10.1177/2515245919882693](https://doi.org/10.1177/2515245919882693).
 
