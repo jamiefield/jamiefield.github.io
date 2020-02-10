@@ -20,6 +20,7 @@ collection: portfolio
 
 * ### Module 2 - Data sources, data types, and survey design
    * <a href="http://jamiefield.github.io/files/M2_Handout_Not_Filled_In.docx?dl=0">Module 2_Handout 1</a>
+   * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
 
 
 
