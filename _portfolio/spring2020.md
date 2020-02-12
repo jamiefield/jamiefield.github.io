@@ -25,12 +25,26 @@ collection: portfolio
    * <a href="http://jamiefield.github.io/files/M2_Handout_Not_Filled_In.docx?dl=0">Module 2_Handout 1</a>
    
  * ### Excel tutorials
-   * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
-      * We will use this .csv file to perform "if" and "vlookup" functions
+     * Text-to-columns
+        * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
+           * We will use this .csv file to separate the "Result" column into three new columns (i.e., W or L, Away Team Score, and Home Team Score). From here, we can estimate some interesting statistics (e.g., win percentage, average team score)!
+           * <a href="http://jamiefield.github.io/files/Text to Columns Tutorial.docx?dl=0">Text-to-columns tutorial</a>
+               * Use this guide as a reference if need help learning the text-to-columns procedure
+         * <a href="http://jamiefield.github.io/files/Text-to-columns.xlsx?dl=0">Class roster</a>
+            * Use this file to practice your text-to-columns skills. Specifically, separate Column A, which contains each student's name in the "last name, first name" format, into two separate columns. 
+            * The file contains several other formula-driven cells (see Column C and Columns F-H). Column C removes the unnecessary space (i.e., the first character) from the cells in Column B. Columns F-G then counts the number of characters in the Columns A-C.
+ 
+   * IF statements 
+      * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
+         * In this example data set, you can dummy code the "Sex" data (see Column B) using an IF statement
+      * <a href="http://jamiefield.github.io/files/IF_function_II.xlsx?dl=0">IF function examples and exercises</a>
+         * This file contains three separate examples and corresponding exercises. In the first exercise, you will be asked to use an IF statement to identify is greater than the column median. In the second exercise, you will be asked to use an IF statement to count the number of color matches. In the third exercise, you will be asked to use an IF statement to identify the number of teams ending in "State" (e.g., Kansas State).
+
+   * VLOOKUP
+
       
-   * <a href="http://jamiefield.github.io/files/IF_function_II.xlsx?dl=0">IF function examples and exercises</a>
+
    
-   * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
-      * We will use this .csv file to perform "text-to-columns" functions
+
 
 @Students: Keep checking back for more content!
