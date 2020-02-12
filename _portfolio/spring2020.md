@@ -4,6 +4,8 @@ excerpt: "Content for MANG 434:001 can be found here"
 collection: portfolio
 ---
 
+* <a href="https://us.bbcollab.com/guest/3dfc8329c2b648658f5abb13bf4393a6">Link to Blackboard Collaborate Ultra session for Feb. 12, 2020</a>
+
 ## MANG 434:001 (crn: 10363) 
 
 * ### Syllabus
@@ -23,6 +25,8 @@ collection: portfolio
 
 * ### Module 2 - Data sources, data types, and survey design
    * <a href="http://jamiefield.github.io/files/M2_Handout_Not_Filled_In.docx?dl=0">Module 2_Handout 1</a>
+   * <a href="http://jamiefield.github.io/files/Conceptual Model Example.pdf?dl=0">Conceptual Model Example</a>
+      * It is important that each group creates a model like the one that is depicted in this example. (The model should be included in the "consultation meeting summary group project submission.) A model like this will be the foundation for your group's data collection instrument. Put differently, your model will determine what questions will be asked on your survey and, thus, what evidence-based practice recommendations your group can make. Indeed, you can only make recommendations based on the evidence that was collected. Importantly, the model should be supported by theory! Otherwise, there may be little support for why the variables included in the model are related to each other.
    
  * ### Excel tutorials
      * Text-to-columns
@@ -34,6 +38,10 @@ collection: portfolio
             * Use this file to practice your text-to-columns skills. Specifically, separate Column A, which contains each student's name in the "last name, first name" format, into two separate columns. 
             * The file contains several other formula-driven cells (see Column C and Columns F-H). Column C removes the unnecessary space (i.e., the first character) from the cells in Column B. Columns F-G then counts the number of characters in the Columns A-C.
  
+   * COUNTIF statements
+      * <a href="http://jamiefield.github.io/files/countIF.xlsx?dl=0">A COUNTIF example using categories of race</a>
+         * In this example, five categories of race are summarized using the COUNTIF function. See Column H for the application of the COUNTIF function.
+   
    * IF statements 
       * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
          * In this example data set, you can dummy code the "Sex" data (see Column B) using an IF statement
@@ -41,10 +49,10 @@ collection: portfolio
          * This file contains three separate examples and corresponding exercises. In the first exercise, you will be asked to use an IF statement to identify is greater than the column median. In the second exercise, you will be asked to use an IF statement to count the number of color matches. In the third exercise, you will be asked to use an IF statement to identify the number of teams ending in "State" (e.g., Kansas State).
 
    * VLOOKUP
-
+      * <a href="http://jamiefield.github.io/files/vlookup_race.xlsx?dl=0">A VLOOKUP example using categories of race</a>
+         * In this example, five categories of race are summarized using the COUNTIF function. See Column C and Column H for the application of the VLOOKUP function.
       
-
-   
-
+   * What to do when there are data missing in your dataset?
+      * Coming soon...
 
 @Students: Keep checking back for more content!
