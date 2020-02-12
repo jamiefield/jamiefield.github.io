@@ -22,9 +22,9 @@ collection: portfolio
    
    * <a href="http://jamiefield.github.io/files/sample_correlation_matrix.png?dl=0">Sample correlation matrix</a>
   
-
 * ### Module 2 - Data sources, data types, and survey design
    * <a href="http://jamiefield.github.io/files/M2_Handout_Not_Filled_In.docx?dl=0">Module 2_Handout 1</a>
+   * <a href="http://jamiefield.github.io/files/Validity and Reliability_not_filled_in.docx?dl=0">Module 2_Handout 2</a>
    * <a href="http://jamiefield.github.io/files/Conceptual Model Example.pdf?dl=0">Conceptual Model Example</a>
       * It is important that each group creates a model like the one that is depicted in this example. (The model should be included in the "consultation meeting summary group project submission.) A model like this will be the foundation for your group's data collection instrument. Put differently, your model will determine what questions will be asked on your survey and, thus, what evidence-based practice recommendations your group can make. Indeed, you can only make recommendations based on the evidence that was collected. Importantly, the model should be supported by theory! Otherwise, there may be little support for why the variables included in the model are related to each other.
    
