@@ -30,7 +30,8 @@ collection: portfolio
     * <a href="http://jamiefield.github.io/files/Qualtrics tutorial.doc?dl=0">Introduction/Step-by-step guide to creating and distributing a survey in Qualtrics</a>  
     * <a href="http://jamiefield.github.io/files/Introduction-Preamble.doc?dl=0">Introduction/Preamble for Qualtrics survey</a>
       * Each group should use this. Copy and paste the attached text into the survey as the first question (make sure you reduce the number of response options [see the right panel in Qualtrics] to zero).
-   
+   * <a href="https://us-lti.bbcollab.com/recording/c91978e035374690bcfd86593726fe57">Qualtrics and INN tutorial (video) -- Step-by-step guide</a>
+ 
  * ### Excel tutorials
      * Text-to-columns
         * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
