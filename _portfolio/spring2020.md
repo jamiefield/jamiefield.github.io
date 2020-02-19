@@ -31,6 +31,7 @@ collection: portfolio
     * <a href="http://jamiefield.github.io/files/Introduction-Preamble.docX?dl=0">Introduction/Preamble for Qualtrics survey</a>
       * Each group should use this. Copy and paste the attached text into the survey as the first question (make sure you reduce the number of response options [see the right panel in Qualtrics] to zero).
    * <a href="https://us-lti.bbcollab.com/recording/c91978e035374690bcfd86593726fe57">Qualtrics and INN tutorial (video) -- Step-by-step guide</a>
+      * Sorry that this is so long (about 30 mins)!
  
  * ### Excel tutorials
      * Text-to-columns
