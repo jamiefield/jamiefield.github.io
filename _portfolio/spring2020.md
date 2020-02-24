@@ -4,7 +4,7 @@ excerpt: "Content for MANG 434:001 can be found here"
 collection: portfolio
 ---
 
-* <a href="https://us.bbcollab.com/guest/3dfc8329c2b648658f5abb13bf4393a6">Link to Blackboard Collaborate Ultra session for Feb. 12, 2020</a>
+* <a href="https://outlook.office365.com/owa/calendar/ab42c2246734494e84ea7dee6b39c8ef@mail.wvu.edu/5b5f397211e946258fc9062b9a3dd3f02469245912284719824/calendar.html">See what's on Jamie's calendar (use this to see when I am available for meetings)</a>
 
 ## MANG 434:001 (crn: 10363) 
 
