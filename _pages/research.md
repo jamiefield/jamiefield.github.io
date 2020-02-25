@@ -106,6 +106,12 @@ Field, J.G., & Bosco, F.A. (2012, September). Knowledge management relies on emp
 
 Bosco, F.A., Field, J.G., & Pierce, C.A. (2012, August). Accommodational plasticity in organizational science: Influence of hypothesis framing on effect size. Paper presented at the meeting of the Academy of Management, Boston, MA. *Published in Academy of Management Best Paper Proceedings
 
+**Invited collopquia**
+
+Field, J. G., (2020, February). A meta-presentation: Tools for building trustworthy cumulative knowledge. First Friday presentation for I/O Psychology Department at Virginia Tech, Blacksburg, VA. *Presentation materials can be found <a href="https://jamiefield.github.io/research/vt2020">here</a>
+
+Field, J. G. (2016, October). How open-access to big data can narrow the science-practice gap: A demonstration of the metaBUS platform. Brown bag seminar and workshop held at the Department of Psychology, George Mason University, Fairfax, VA.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
