@@ -30,6 +30,7 @@ collection: portfolio
     * <a href="http://jamiefield.github.io/files/Qualtrics tutorial.docx?dl=0">Introduction/Step-by-step guide to creating and distributing a survey in Qualtrics</a>  
     * <a href="http://jamiefield.github.io/files/Introduction-Preamble.docx?dl=0">Introduction/Preamble for Qualtrics survey</a>
       * Each group should use this. Copy and paste the attached text into the survey as the first question (make sure you reduce the number of response options [see the right panel in Qualtrics] to zero).
+    * <a href="http://jamiefield.github.io/files/finalSuggestions.docx?dl=0">Required and optional constructs to be included in your questionnaire</a>
    * <a href="https://us-lti.bbcollab.com/recording/c91978e035374690bcfd86593726fe57">Qualtrics and INN tutorial (video) -- Step-by-step guide</a>
       * Sorry that this is so long (about 30 mins)!
  
