@@ -13,7 +13,7 @@ Slemp, G., Cho, A. S. H., Field, J. G. (preparing first revision). (Manuscript t
 
 **Published papers**
 
-Field, J. G., Bosco F. A., Kepes, S., (in press). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>.
+Field, J. G., Bosco F. A., Kepes, S., (in press). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).
 
 Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (in press). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>. doi: [10.1177/2515245919882693](https://doi.org/10.1177/2515245919882693).
 
