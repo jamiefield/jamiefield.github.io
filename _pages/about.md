@@ -11,6 +11,7 @@ redirect_from:
 
 <img src='/images/WVU1.jpg'>
 
+<html>
 <div class="col-sm-5">
 	        <h3>Interests</h3>
 	        <ul class="ul-interests">
@@ -57,5 +58,6 @@ redirect_from:
 	          
 	        </ul>
 	      </div>
+	      </html>
 
 
