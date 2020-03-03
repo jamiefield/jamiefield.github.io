@@ -24,6 +24,7 @@ redirect_from:
   float: left;
   width: 50%;
   padding: 10px;
+  height: 300px
 }
 
 /* Clear floats after the columns */
@@ -43,7 +44,7 @@ redirect_from:
   </div>
   <div class="column">
     <h3>Education</h3>
-    <p>Test</p>
+    <p>Test1</p>
   </div>
 </div>
 
