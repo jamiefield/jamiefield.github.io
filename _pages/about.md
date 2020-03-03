@@ -24,7 +24,6 @@ redirect_from:
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -37,8 +36,6 @@ redirect_from:
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
-
 <div class="row">
   <div class="column">
     <h3>Interests</h3>
@@ -48,7 +45,7 @@ redirect_from:
   </div>
   <div class="column">
     <h3>Education</h3>
-    <p>Some text..</p>
+    <p>Test</p>
   </div>
 </div>
 
