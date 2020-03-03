@@ -53,7 +53,7 @@ redirect_from:
         <i class="fa-li fa fa-graduation-cap"></i>
         <div class="description">
           <p class="course">PhD in Management, 2017</p>
-          <p class="institution">Virgina Commonwealth University</p>
+          <p class="course">Virgina Commonwealth University</p>
         </div>
       </li>
 
