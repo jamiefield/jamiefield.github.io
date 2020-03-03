@@ -13,40 +13,40 @@ redirect_from:
 
 <html>
 <div class="row">
-<div class="col-sm-5">
+	<div class="col-sm-5">
 	        <h3>Interests</h3>
-	        <ul class="ul-interests">
-	        <li>Organizational behavior</li>
-	        <li>Human resource management</li>
-	        <li>Organizational research methods</li>
-	        </ul>
-	        </div>	   
-<div class="col-sm-7">
+	        	<ul class="ul-interests">
+	        		<li>Organizational behavior</li>
+	        		<li>Human resource management</li>
+	        		<li>Organizational research methods</li>
+	        	</ul>
+	 </div>	   
+	<div class="col-sm-7">
 	        <h3>Education</h3>
-	        <ul class="ul-edu fa-ul">
-	        <li>
-	        <i class="fa-li fa fa-graduation-cap"></i>
-	        <div class="description">
-	        <p class="course">PhD in Management, 2017</p>
-	        <p class="institution">Virgina Commonwealth University</p>
-	        </div>
-	        </li>
-	        <li>
-	        <i class="fa-li fa fa-graduation-cap"></i>
-	        <div class="description">
-	        <p class="course">MBA, 2011</p>
-	        <p class="institution">Marshall University</p>
-	        </div>
-	        </li>
-	        <li>
-	        <i class="fa-li fa fa-graduation-cap"></i>
-	        <div class="description">
-	        <p class="course">BS in Business Administration, 2008</p>
-	        <p class="institution">Glenville State College</p>
-	        </div>
-	        </li>
-	        </ul>
-	      </div>
-	      </html>
+	        	<ul class="ul-edu fa-ul">
+	        	<li>
+	        		<i class="fa-li fa fa-graduation-cap"></i>
+	        		<div class="description">
+	        		<p class="course">PhD in Management, 2017</p>
+	        		<p class="institution">Virgina Commonwealth University</p>
+	        	</div>
+	        	</li>
+	        	<li>
+	        		<i class="fa-li fa fa-graduation-cap"></i>
+	        		<div class="description">
+	        		<p class="course">MBA, 2011</p>
+	        		<p class="institution">Marshall University</p>
+	        	</div>
+	        	</li>
+	        	<li>
+	        		<i class="fa-li fa fa-graduation-cap"></i>
+	       			<div class="description">
+	        		<p class="course">BS in Business Administration, 2008</p>
+	        		<p class="institution">Glenville State College</p>
+	        	</div>
+	        	</li>
+	        	</ul>
+	 </div>
+	 </html>
 
 
