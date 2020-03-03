@@ -24,7 +24,6 @@ redirect_from:
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px
 }
 
 /* Clear floats after the columns */
@@ -47,7 +46,7 @@ redirect_from:
     </ul>
   </div>
   <div class="column">
-    <h3>Education</h3>
+    <h3>Education333</h3>
     <ul class="ul-edu fa-ul">
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
