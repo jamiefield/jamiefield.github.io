@@ -40,7 +40,7 @@ redirect_from:
 <div class="row">
   <div class="column">
     <h3>Interests</h3>
-    <p><li>Organizational behavior</p>
+    <p>Organizational behavior</p>
   </div>
   <div class="column">
     <h3>Education</h3>
