@@ -42,9 +42,9 @@ redirect_from:
 <div class="row">
   <div class="column">
     <h3>Interests</h3>
-                <p><ul>Organizational behavior</ui></p>
-	        			<p><ul>Human resource management</ui></p>
-	        			<p><ul>Organizational research methods</ui></p>
+                <p><ul>Organizational behavior
+	        <ul>Human resource management
+	        <ul>Organizational research methods</ui></p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Column 2</h2>
