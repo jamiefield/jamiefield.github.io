@@ -11,80 +11,51 @@ redirect_from:
 
 <img src='/images/WVU1.jpg'>
 
-<div class="row">
-      
-         <div class="col-sm-5">
+<div class="col-sm-5">
+	        <h3>Interests</h3>
+	        <ul class="ul-interests">
+	          
+	          <li>Statistics</li>
+	          
+	          <li>Epidemiology</li>
+	          
+	          <li>Child growth</li>
+	          
+	        </ul>
+	      </div>
+	      
+	
 
-        <h3>Interests</h3>
+	      
+	      <div class="col-sm-7">
+	        <h3>Education</h3>
+	        <ul class="ul-edu fa-ul">
+	          
+	          <li>
+	            <i class="fa-li fa fa-graduation-cap"></i>
+	            <div class="description">
+	              <p class="course">PhD in Nutritional Epidemiology, 2009</p>
+	              <p class="institution">University of North Carolina</p>
+	            </div>
+	          </li>
+	          
+	          <li>
+	            <i class="fa-li fa fa-graduation-cap"></i>
+	            <div class="description">
+	              <p class="course">MHS in International Health, 2003</p>
+	              <p class="institution">Johns Hopkins School of Public Health</p>
+	            </div>
+	          </li>
+	          
+	          <li>
+	            <i class="fa-li fa fa-graduation-cap"></i>
+	            <div class="description">
+	              <p class="course">BA in Biology, 2001</p>
+	              <p class="institution">Hendrix College</p>
+	            </div>
+	          </li>
+	          
+	        </ul>
+	      </div>
 
-        <ul class="ul-interests">
 
-         
-         <li>Organizational behavior</li>
-
-         
-          <li>Human resource management</li>
-
-         
-          <li>Organizational research methods</li>
-
-              
-            
-
-        </ul>
-
-      </div>
-
-         
-
-      <div class="col-sm-7">
-
-        <h3>Education</h3>
-
-        <ul class="ul-edu fa-ul">
-
-         
-          <li>
-
-            <i class="fa-li fas fa-graduation-cap"></i>
-
-            <div class="description">
-
-              <p class="course">Ph.D. in Business, 2017 -- Virginia Commonwealth University, Richmond, VA </p>
-
-             
-            </div>
-
-          </li>
-
-         
-          <li>
-
-            <i class="fa-li fas fa-graduation-cap"></i>
-
-            <div class="description">
-
-              <p class="course">MBA, 2011 -- Marshall University, Huntington, WV</p>
-
-              </div>
-
-          </li>
-
-         
-          <li>
-
-            <i class="fa-li fas fa-graduation-cap"></i>
-
-            <div class="description">
-
-              <p class="course">B.Sc. in Business Administration, 2008 -- Glenville State College, Glenville, WV</p>
-
-              </div>
-
-          </li>
-
-         
-        </ul>
-
-      </div>
-  </div>
