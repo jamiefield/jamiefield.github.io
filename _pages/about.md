@@ -11,45 +11,48 @@ redirect_from:
 
 <img src='/images/WVU1.jpg'>
 
-<html>
-	<head>
-		<body>
-	<div class="row">
-		<div class="col-sm-5">
-	        	<h3>Interests</h3>
-	        		<ul class="ul-interests">
-	        			<li>Organizational behavior</li>
-	        			<li>Human resource management</li>
-	        			<li>Organizational research methods</li>
-	        		</ul>
-	 	</div>	   
-		<div class="col-sm-7">
-	        	<h3>Education</h3>
-	        		<ul class="ul-edu fa-ul">
-	        		<li>
-	        			<i class="fa-li fa fa-graduation-cap"></i>
-	        			<div class="description">
-	        				<p class="course">PhD in Management, 2017</p>
-	        				<p class="institution">Virgina Commonwealth University</p>
-	        			</div>
-	        		</li>
-	        		<li>
-	        			<i class="fa-li fa fa-graduation-cap"></i>
-	        			<div class="description">
-	        			<p class="course">MBA, 2011</p>
-	        			<p class="institution">Marshall University</p>
-	        			</div>
-	        		</li>
-	        		<li>
-	        			<i class="fa-li fa fa-graduation-cap"></i>
-	       				<div class="description">
-	        			<p class="course">BS in Business Administration, 2008</p>
-	        			<p class="institution">Glenville State College</p>
-	        			</div>
-	        		</li>
-	        		</ul>
-	 </body>
-		</head>
-	 </html>
+<<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Three Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2>Column 3</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+</html>
