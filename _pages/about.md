@@ -22,10 +22,9 @@ redirect_from:
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
+  }
 
 /* Clear floats after the columns */
 .row:after {
@@ -48,11 +47,7 @@ redirect_from:
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
   </div>
-</div>
 
 </body>
 </html>
