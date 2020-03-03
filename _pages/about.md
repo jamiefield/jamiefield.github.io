@@ -53,17 +53,22 @@ redirect_from:
         <i class="fa-li fa fa-graduation-cap"></i>
         <div class="description">
           <p class="course">PhD in Management (2017),<br>
-            Virgina Commonwealth University, Richmond, VA</p>
+            Virgina Commonwealth University,<br>
+            Richmond, VA</p>
         </div>
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
         <div class="description">
-          <p class="course">MBA (2011), Marshall University University, Huntington, WV</p>
+          <p class="course">MBA (2011),<br>
+            Marshall University University,<br>
+            Huntington, WV</p>
         </div>
        <li>
         <i class="fa-li fa fa-graduation-cap"></i>
         <div class="description">
-          <p class="course">BS in Business Administration (2008), Glenville State College, Glenville, WV</p>
+          <p class="course">BS in Business Administration (2008),<br>
+            Glenville State College,<br>
+            Glenville, WV</p>
         </div>
       </li>
 
