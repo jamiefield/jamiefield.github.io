@@ -11,7 +11,7 @@ redirect_from:
 
 <img src='/images/WVU1.jpg'>
 
-<<html>
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -19,12 +19,13 @@ redirect_from:
   box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%%;
+  width: 50%;
   padding: 10px;
-  }
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
 /* Clear floats after the columns */
 .row:after {
@@ -36,7 +37,7 @@ redirect_from:
 </head>
 <body>
 
-<h2>Three Equal Columns</h2>
+<h2>Two Equal Columns</h2>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
@@ -47,7 +48,7 @@ redirect_from:
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
-  </div>
+</div>
 
 </body>
 </html>
