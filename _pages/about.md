@@ -48,7 +48,15 @@ redirect_from:
   </div>
   <div class="column">
     <h3>Education</h3>
-    <p>Test3</p>
+    <ul class="ul-edu fa-ul">
+      <li>
+        <i class="fa-li fa fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course">PhD in Management, 2017</p>
+          <p class="institution">Virgina Commonwealth University</p>
+        </div>
+      </li>
+
   </div>
 </div>
 
