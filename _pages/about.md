@@ -46,8 +46,8 @@ redirect_from:
 	        <li>Human resource management
 	        <li>Organizational research methods</li></p>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
+  <div class="column">
+    <h3>Education</h3>
     <p>Some text..</p>
   </div>
 </div>
