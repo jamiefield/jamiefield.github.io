@@ -40,7 +40,9 @@ redirect_from:
 <div class="row">
   <div class="column">
     <h3>Interests</h3>
-    <p>Organizational behavior</p>
+    <p>Organizational behavior
+    Human resource management
+    Organizational research methods</p>
   </div>
   <div class="column">
     <h3>Education</h3>
