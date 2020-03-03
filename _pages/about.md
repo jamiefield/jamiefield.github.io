@@ -52,7 +52,8 @@ redirect_from:
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
         <div class="description">
-          <p class="course">PhD in Management (2017), Virgina Commonwealth University, Richmond, VA</p>
+          <p class="course">PhD in Management (2017),<br>
+            Virgina Commonwealth University, Richmond, VA</p>
         </div>
       <li>
         <i class="fa-li fa fa-graduation-cap"></i>
