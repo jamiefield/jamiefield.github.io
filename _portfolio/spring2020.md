@@ -36,7 +36,7 @@ collection: portfolio
  
  * ### Excel tutorials
     * Comprehensive example
-       * <a href="http://jamiefield.github.io/files/comprehensiveExample_03052020.xlsx?dl=0">Data set for the "comprehensive example tutorial</a>
+       * <a href="http://jamiefield.github.io/files/comprehensiveExample_03052020.xlsx?dl=0">Data set for the "comprehensive" example tutorial</a>
        * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to comprehensive example tutorial</a>  
  
      * Text-to-columns
