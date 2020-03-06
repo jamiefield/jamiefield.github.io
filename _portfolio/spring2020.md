@@ -35,6 +35,10 @@ collection: portfolio
       * Sorry that this is so long (about 30 mins)!
  
  * ### Excel tutorials
+    * Comprehensive example
+       * <a href="http://jamiefield.github.io/files/comprehensiveExample_03052020.xlsx?dl=0">Data set for the "comprehensive example tutorial</a>
+       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to comprehensive example tutorial</a>  
+ 
      * Text-to-columns
         * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
            * We will use this .csv file to separate the "Result" column into three new columns (i.e., W or L, Away Team Score, and Home Team Score). From here, we can estimate some interesting statistics (e.g., win percentage, average team score)!
