@@ -38,13 +38,13 @@ collection: portfolio
     * Tutorial #1: Text-to-columns
         * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
            * We will use this .csv file to separate the "Result" column into three new columns (i.e., W or L, Away Team Score, and Home Team Score). From here, we can estimate some interesting statistics (e.g., win percentage, average team score)!
-           * <a href="https://us-lti.bbcollab.com/recording/3a5e778c579f4bbebda634889ddb047a">Video link to Tutorial #1</a>           
+           * <a href="https://us-lti.bbcollab.com/recording/3a5e778c579f4bbebda634889ddb047a">Video link to Tutorial #1a</a>           
            * <a href="http://jamiefield.github.io/files/Text to Columns Tutorial.docx?dl=0">Text-to-columns tutorial</a>
                * Use this guide as a reference if need help learning the text-to-columns procedure
          * <a href="http://jamiefield.github.io/files/Text-to-columns.xlsx?dl=0">Class roster</a>
             * Use this file to practice your text-to-columns skills. Specifically, separate Column A, which contains each student's name in the "last name, first name" format, into two separate columns. 
             * The file contains several other formula-driven cells (see Column C and Columns F-H). Column C removes the unnecessary space (i.e., the first character) from the cells in Column B. Columns F-G then counts the number of characters in the Columns A-C.
- 
+            * <a href="https://us-lti.bbcollab.com/recording/7577ff56a3944d9b8eb0e9c121edaa49">Video link to Tutorial #1b</a>             
    * Tutorial #2: COUNTIF statements
       * <a href="http://jamiefield.github.io/files/countIF.xlsx?dl=0">A COUNTIF example using categories of race</a>
          * In this example, five categories of race are summarized using the COUNTIF function. See Column H for the application of the COUNTIF function.
