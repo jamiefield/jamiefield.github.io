@@ -60,11 +60,11 @@ collection: portfolio
          
     * Tutorial #5: Comprehensive example (useful for Homework Assignment #3 and Exam 1 Part II)
        * <a href="http://jamiefield.github.io/files/comprehensiveExample_03052020.xlsx?dl=0">Data set for the "comprehensive" example tutorial</a>
-       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to Tutorial #4</a>  
+       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to Tutorial #5</a>  
       
-    * Tutorial #5: Comprehensive example (useful for Homework Assignment #3 and Exam 1 Part II)
+    * Tutorial #6: Comprehensive example (useful for Homework Assignment #3 and Exam 1 Part II)
        * <a href="http://jamiefield.github.io/files/ifAnd_ifOr_data.xlsx?dl=0">Data set for "IF AND" and "IF OR" tutorial</a>
-       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to Tutorial #5</a> 
+       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to Tutorial #6</a> 
        
     * What to do when there are data missing in your dataset?
       * Coming soon...
