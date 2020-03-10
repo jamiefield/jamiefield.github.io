@@ -35,11 +35,7 @@ collection: portfolio
       * Sorry that this is so long (about 30 mins)!
  
  * ### Excel tutorials
-    * Comprehensive example
-       * <a href="http://jamiefield.github.io/files/comprehensiveExample_03052020.xlsx?dl=0">Data set for the "comprehensive" example tutorial</a>
-       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to comprehensive example tutorial</a>  
- 
-     * Text-to-columns
+    * Tutorial #1: Text-to-columns
         * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
            * We will use this .csv file to separate the "Result" column into three new columns (i.e., W or L, Away Team Score, and Home Team Score). From here, we can estimate some interesting statistics (e.g., win percentage, average team score)!
            * <a href="http://jamiefield.github.io/files/Text to Columns Tutorial.docx?dl=0">Text-to-columns tutorial</a>
@@ -48,21 +44,29 @@ collection: portfolio
             * Use this file to practice your text-to-columns skills. Specifically, separate Column A, which contains each student's name in the "last name, first name" format, into two separate columns. 
             * The file contains several other formula-driven cells (see Column C and Columns F-H). Column C removes the unnecessary space (i.e., the first character) from the cells in Column B. Columns F-G then counts the number of characters in the Columns A-C.
  
-   * COUNTIF statements
+   * Tutorial #2: COUNTIF statements
       * <a href="http://jamiefield.github.io/files/countIF.xlsx?dl=0">A COUNTIF example using categories of race</a>
          * In this example, five categories of race are summarized using the COUNTIF function. See Column H for the application of the COUNTIF function.
    
-   * IF statements 
+   * Tutorial #3: IF statements 
       * <a href="http://jamiefield.github.io/files/sampleData.csv?dl=0">A sample data set to be used in class</a>
          * In this example data set, you can dummy code the "Sex" data (see Column B) using an IF statement
       * <a href="http://jamiefield.github.io/files/IF_function_II.xlsx?dl=0">IF function examples and exercises</a>
          * This file contains three separate examples and corresponding exercises. In the first exercise, you will be asked to use an IF statement to identify is greater than the column median. In the second exercise, you will be asked to use an IF statement to count the number of color matches. In the third exercise, you will be asked to use an IF statement to identify the number of teams ending in "State" (e.g., Kansas State).
 
-   * VLOOKUP
+   * Tutorial #4: VLOOKUP
       * <a href="http://jamiefield.github.io/files/vlookup_race.xlsx?dl=0">A VLOOKUP example using categories of race</a>
          * In this example, five categories of race are summarized using the COUNTIF function. See Column C and Column H for the application of the VLOOKUP function.
+         
+    * Tutorial #5: Comprehensive example (useful for Homework Assignment #3 and Exam 1 Part II)
+       * <a href="http://jamiefield.github.io/files/comprehensiveExample_03052020.xlsx?dl=0">Data set for the "comprehensive" example tutorial</a>
+       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to Tutorial #4</a>  
       
-   * What to do when there are data missing in your dataset?
+    * Tutorial #5: Comprehensive example (useful for Homework Assignment #3 and Exam 1 Part II)
+       * <a href="http://jamiefield.github.io/files/ifAnd_ifOr_data.xlsx?dl=0">Data set for "IF AND" and "IF OR" tutorial</a>
+       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Link to Tutorial #5</a> 
+       
+    * What to do when there are data missing in your dataset?
       * Coming soon...
 
 @Students: Keep checking back for more content!
