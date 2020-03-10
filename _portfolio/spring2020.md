@@ -38,6 +38,7 @@ collection: portfolio
     * Tutorial #1: Text-to-columns
         * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
            * We will use this .csv file to separate the "Result" column into three new columns (i.e., W or L, Away Team Score, and Home Team Score). From here, we can estimate some interesting statistics (e.g., win percentage, average team score)!
+           * <a href="https://us-lti.bbcollab.com/recording/3a5e778c579f4bbebda634889ddb047a">Video link to Tutorial #1</a>           
            * <a href="http://jamiefield.github.io/files/Text to Columns Tutorial.docx?dl=0">Text-to-columns tutorial</a>
                * Use this guide as a reference if need help learning the text-to-columns procedure
          * <a href="http://jamiefield.github.io/files/Text-to-columns.xlsx?dl=0">Class roster</a>
