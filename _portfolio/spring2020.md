@@ -64,7 +64,7 @@ collection: portfolio
       
     * Tutorial #6: Comprehensive example (useful for Homework Assignment #3 and Exam 1 Part II)
        * <a href="http://jamiefield.github.io/files/ifAnd_ifOr_data.xlsx?dl=0">Data set for "IF AND" and "IF OR" tutorial</a>
-       * <a href="https://us-lti.bbcollab.com/recording/2f2616326410444ea57b34cbf130fad6">Video link to Tutorial #6</a> 
+       * <a href="https://us-lti.bbcollab.com/recording/2d50888a6117426d8047b2a79559143e">Video link to Tutorial #6</a> 
        
     * What to do when there are data missing in your dataset?
       * Coming soon...
