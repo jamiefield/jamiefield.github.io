@@ -7,7 +7,7 @@ collection: portfolio
  ## In-class extra credit assignment
  * Profit sharing exercise 
       * <a href="http://jamiefield.github.io/files/extraCredit03112020_data.xlsx?dl=0">Data set for extra-credit assignment</a>
-      * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.doc?dl=0">Extra-credit case/handout</a>
+      * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.docx?dl=0">Extra-credit case/handout</a>
       <br>
       <br>
 
