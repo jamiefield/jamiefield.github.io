@@ -4,7 +4,7 @@ excerpt: "Content for MANG 434:001 can be found here"
 collection: portfolio
 ---
 
- ## In-class extra credit assignment
+ ## In-class extra credit assignment (March 11)
  * Profit sharing exercise 
       * <a href="http://jamiefield.github.io/files/extraCredit03112020_data.xlsx?dl=0">Data set for extra-credit assignment</a>
       * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.docx?dl=0">Extra-credit case/handout</a>
