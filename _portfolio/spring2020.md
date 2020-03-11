@@ -4,6 +4,11 @@ excerpt: "Content for MANG 434:001 can be found here"
 collection: portfolio
 ---
 
+ ## In-class extra credit assignment
+ * Profit sharing exercise 
+      * <a href="http://jamiefield.github.io/files/extraCredit03112020_data.xlsx?dl=0">Data set for extra-credit assignment</a>
+      * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.doc?dl=0">Extra-credit case/handout</a>
+
 * <a href="https://outlook.office365.com/owa/calendar/ab42c2246734494e84ea7dee6b39c8ef@mail.wvu.edu/5b5f397211e946258fc9062b9a3dd3f02469245912284719824/calendar.html">See what's on Jamie's calendar (use this to see when I am available for meetings)</a>
 
 ## MANG 434:001 (crn: 10363) 
