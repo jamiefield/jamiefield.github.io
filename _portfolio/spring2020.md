@@ -42,6 +42,13 @@ collection: portfolio
       * Profit sharing exercise 
          * <a href="http://jamiefield.github.io/files/extraCredit03112020_data.xlsx?dl=0">Data set for extra-credit assignment</a>
          * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.docx?dl=0">Extra-credit case/handout</a>
+         
+ * ### Scrubbing the dataset - Part I (recorded and posted on March 30, 2020)
+    * <a href="https://us-lti.bbcollab.com/recording/1858bf0b5cf04a6fa10f19f5a751032a">Link to recorded lesson</a>           
+    * Note that this was recorded at home. Thus, you may hear screaming kids in the background! You may also hear my screaming wife screaming at my screaming kids! Social distancing with two kids, an one year old and a three year old, is no joke! Stay safe, my friends!
+    * It is very important that you let me know if you have any questions.
+    * Finally, each group needs to upload proof that their data collection has ended. If you need help with this or have any concerns regarding your group's data (e.g., small sample size), then please email me ASAP 
+ 
  
  * ### Excel tutorials
     * Tutorial #1: Text-to-columns
