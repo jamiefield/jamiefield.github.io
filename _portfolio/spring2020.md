@@ -33,13 +33,17 @@ collection: portfolio
     * <a href="http://jamiefield.github.io/files/finalSuggestions.docx?dl=0">Required and optional constructs to be included in your questionnaire</a>
    * <a href="https://us-lti.bbcollab.com/recording/c91978e035374690bcfd86593726fe57">Qualtrics and INN tutorial (video) -- Step-by-step guide</a>
       * Sorry that this is so long (about 30 mins)!
+
+* ### Module 3 - Descriptive statistics and group differences
+   * <a href="http://jamiefield.github.io/files/Module 3.pdf?dl=0">Module 3 PowerPoint</a>
+   * <a href="http://jamiefield.github.io/files/What do you mean - Case study.docx?dl=0">What do you mean - Case study</a>
+   * <a href="http://jamiefield.github.io/files/Module 3_sampleData.xlsx?dl=0">Module 3 sample data</a>
  
  ## In-class extra credit assignment (March 11)
  * Profit sharing exercise 
       * <a href="http://jamiefield.github.io/files/extraCredit03112020_data.xlsx?dl=0">Data set for extra-credit assignment</a>
       * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.docx?dl=0">Extra-credit case/handout</a>
       <br>
- 
  
  * ### Excel tutorials
     * Tutorial #1: Text-to-columns
