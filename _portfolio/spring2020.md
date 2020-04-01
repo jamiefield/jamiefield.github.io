@@ -43,13 +43,18 @@ collection: portfolio
          * <a href="http://jamiefield.github.io/files/extraCredit03112020_data.xlsx?dl=0">Data set for extra-credit assignment</a>
          * <a href="http://jamiefield.github.io/files/Profit Sharing Exercise_handout.docx?dl=0">Extra-credit case/handout</a>
          
- * ### Scrubbing the dataset - Part I (recorded and posted on March 30, 2020)
+* ### Scrubbing the dataset - Part I (recorded and posted on March 30, 2020)
     * <a href="https://us-lti.bbcollab.com/recording/1858bf0b5cf04a6fa10f19f5a751032a">Link to recorded lesson</a>           
     * Note that this was recorded at home. Thus, you may hear screaming kids in the background! You may also hear my screaming wife screaming at my screaming kids! Social distancing with two kids, an one year old and a three year old, is no joke! Stay safe, my friends!
     * It is very important that you let me know if you have any questions.
     * Finally, each group needs to upload proof that their data collection has ended. If you need help with this or have any concerns regarding your group's data (e.g., small sample size), then please email me ASAP 
- 
- 
+
+* ### Scrubbing the dataset - Part II (recorded and posted on April 1, 2020)
+    * <a href="https://us-lti.bbcollab.com/recording/3d8653e8be964f0d8ea0948fab754d7f">Link to recorded lesson</a>
+    * This was recorded at home so note that the same warnings apply!
+    * Please contact me if you have questions and/or need help with anything
+    * Reminder: I will hold virtual office hours tomorrow from 11am to 2pm via Skype. My handle is jamiefield87. Please email, text or chat message me ahead of time if you want to meet with me. 
+  
  * ### Excel tutorials
     * Tutorial #1: Text-to-columns
         * <a href="http://jamiefield.github.io/files/wvuMBBall_results.xlsx?dl=0">WVU Men's Basketball results</a>
