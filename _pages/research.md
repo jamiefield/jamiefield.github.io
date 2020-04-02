@@ -11,6 +11,8 @@ author_profile: true
 
 Slemp, G., Cho, A. S. H., Field, J. G. (preparing first revision). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Vocational Behavior</i>. 
 
+Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (Manuscript title hidden to preserve anonymous peer review process). <i>Psychological Methods</i>. 
+
 **Published papers**
 
 Field, J. G., Bosco F. A., Kepes, S., (in press). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).
@@ -113,7 +115,7 @@ Field, J. G., (2020, February). A meta-presentation: Tools for building trustwor
 Field, J. G. (2016, October). How open-access to big data can narrow the science-practice gap: A demonstration of the metaBUS platform. Brown bag seminar and workshop held at the Department of Psychology, George Mason University, Fairfax, VA.
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=G3a-ALAAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
