@@ -9,7 +9,7 @@ author_profile: true
 
 **Manuscripts under review**
 
-Slemp, G., Cho, A. S. H., Field, J. G. (preparing first revision). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Vocational Behavior</i>. 
+Slemp, G., Field, J. G., Cho, A. S. H. (preparing first revision). (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of Vocational Behavior</i>. 
 
 Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (Manuscript title hidden to preserve anonymous peer review process). <i>Psychological Methods</i>. 
 
