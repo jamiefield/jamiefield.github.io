@@ -54,6 +54,11 @@ collection: portfolio
     * This was recorded at home so note that the same warnings apply!
     * Please contact me if you have questions and/or need help with anything
     * Reminder: I will hold virtual office hours tomorrow from 11am to 2pm via Skype. My handle is jamiefield87. Please email, text or chat message me ahead of time if you want to meet with me. 
+    
+* ### Estimating descriptive statistics (recorded and posted on April 3, 2020)   
+   * <a href="https://us-lti.bbcollab.com/recording/2bf7cfdab21e439d88c1f6d0c9081880">Link to recorded lesson</a> 
+   * Attached please find a formatted <a href="http://jamiefield.github.io/files/Formatted_correlation_matrix_blank.docx?dl=0">correlation table</a>. Please use it to populate your results and complete the next group project assignment.
+   * Note that the next group project assignment is due by <u>11:59pm ET on Monday, April 6</u>. Please review the updated course calendar (at the top of this page and also posted in eCampus) for other important deadlines.
   
  * ### Excel tutorials
     * Tutorial #1: Text-to-columns
