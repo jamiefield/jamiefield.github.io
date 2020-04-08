@@ -66,7 +66,7 @@ collection: portfolio
    
 * ### Figures in Excel (Part II) (recorded and posted on April 8, 2020)   
     * <a href="https://us-lti.bbcollab.com/recording/3ce2b226e630476b97698bcf1f0524fa">Link to recorded lesson</a>
-    * Attached please find Excel file for the <a href="http://jamiefield.github.io/files/upload_age_categories_pie_chart.xlsx?dl=0">pie chart</a> and <a href="http://jamiefield.github.io/files/upload_JOBSAT_TOI_Scatterplot_sex_differences.xlsx?dl=0">scatter plot that displays a sex difference </a> that I created in this tutorial.
+    * Attached please find Excel file that includes the <a href="http://jamiefield.github.io/files/upload_JOBSAT_TOI_Scatterplot_sex_differences.xlsx?dl=0">scatter plot that displays a sex difference </a> that I created in this tutorial.
     * NOTE: Homework Assignment #4 is now available on <a href="https://ecampus.wvu.edu/">eCampus</a>    
        
  * ### Excel tutorials
