@@ -59,6 +59,11 @@ collection: portfolio
    * <a href="https://us-lti.bbcollab.com/recording/2bf7cfdab21e439d88c1f6d0c9081880">Link to recorded lesson</a> 
    * Attached please find a formatted <a href="http://jamiefield.github.io/files/Formatted_correlation_matrix_blank.docx?dl=0">correlation table</a>. Please use it to populate your results and complete the next group project assignment.
    * Note that the next group project assignment is due by <u>11:59pm ET on Monday, April 6</u>. Please review the updated course calendar (at the top of this page and also posted in eCampus) for other important deadlines.
+   
+ * ### Figures in Excel (Part I) (recorded and posted on April 6, 2020)   
+    * <a href="https://us-lti.bbcollab.com/recording/1992f4d13af14961824286004f9bf841">Link to recorded lesson</a>
+    * Attached please find Excel files for the <a href="http://jamiefield.github.io/files/upload_age_categories_pie_chart.xlsx?dl=0">pie chart</a> and <a href="http://jamiefield.github.io/files/upload_JOBSAT_TOI_Scatterplot.xlsx?dl=0">scatter plot</a> that I created in this tutorial.
+   
   
  * ### Excel tutorials
     * Tutorial #1: Text-to-columns
