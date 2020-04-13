@@ -68,6 +68,12 @@ collection: portfolio
     * <a href="https://us-lti.bbcollab.com/recording/3ce2b226e630476b97698bcf1f0524fa">Link to recorded lesson</a>
     * Attached please find Excel file that includes the <a href="http://jamiefield.github.io/files/upload_JOBSAT_TOI_Scatterplot_sex_differences.xlsx?dl=0">scatter plot that displays a sex difference </a> that I created in this tutorial.
     * NOTE: Homework Assignment #4 is now available on <a href="https://ecampus.wvu.edu/">eCampus</a>    
+    
+* ### Figures in Excel (Part III) (recorded and posted on April 13, 2020)   
+    * <a href="https://us-lti.bbcollab.com/recording/ef011b189b2d417297a5c582546d2590">Link to recorded lesson</a>
+    * Lots of really cool stuff in this tutorial. I hope that you learn from it and find it useful. Let me know if you have any questions regarding what was covered today.
+    * Attached please find Excel file that includes the <a href="http://jamiefield.github.io/files/allPlots_04132020.xlsx?dl=0">bar chart and pivot table </a> that I created in this tutorial.
+    * NOTE: Homework Assignment #4 and the next group project assignment (required figures) are due by <u>11:59pm ET on Wednesday, April 15</u> (see <a href="https://ecampus.wvu.edu/">eCampus</a>.
        
  * ### Excel tutorials
     * Tutorial #1: Text-to-columns
