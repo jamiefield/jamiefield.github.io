@@ -9,11 +9,13 @@ author_profile: true
 
 **Manuscripts under review**
 
+Field, J. G., Bosco, F. A., Kriachy, D., Uggerslev, K. L., Geiger, M. K. (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of International Business Studies</i>.
+
 Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (Manuscript title hidden to preserve anonymous peer review process). <i>Organizational Research Methods</i>. 
 
 **Published papers**
 
-Slemp, G., Field, J. G., Cho, A. S. H. (in press). A meta-analysis of autonomous and controlled forms of teacher motivation. <i>Journal of Vocational Behavior</i>.
+Slemp, G., Field, J. G., Cho, A. S. H. (in press). A meta-analysis of autonomous and controlled forms of teacher motivation. <i>Journal of Vocational Behavior</i>. doi: [10.1016/j.jvb.2020.103459](https://doi.org/10.1016/j.jvb.2020.103459).
 
 Field, J. G., Bosco F. A., Kepes, S., (in press). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).
 
