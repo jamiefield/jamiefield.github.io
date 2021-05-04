@@ -10,6 +10,7 @@ author_profile: true
 **Published papers**
 
 Field, J. G., Bosco, F. A., Kriachy, D., Uggerslev, K. L., Geiger, M. K. (in press). More alike than different? A comparison of variance explained by cross-cultural models. <i>Journal of International Business Studies</i>. doi: [10.1057/s41267-021-00428-z](https://doi.org/10.1057/s41267-021-00428-z).
+*Open-access software introduced in this paper can be found here: [casst.shinyapps.io/gen1/](https://casst.shinyapps.io/gen1/)
  
 Slemp, G., Field, J. G., Cho, A. S. H. (in press). A meta-analysis of autonomous and controlled forms of teacher motivation. <i>Journal of Vocational Behavior</i>. doi: [10.1016/j.jvb.2020.103459](https://doi.org/10.1016/j.jvb.2020.103459).
 
