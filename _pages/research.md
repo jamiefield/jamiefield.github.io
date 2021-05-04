@@ -7,17 +7,13 @@ author_profile: true
 
 <a href="http://jamiefield.github.io/files/Field_CV_Feb2020.pdf?dl=0">Click here to view a copy of my CV</a>
 
-**Manuscripts under review**
-
-Field, J. G., Bosco, F. A., Kriachy, D., Uggerslev, K. L., Geiger, M. K. (Manuscript title hidden to preserve anonymous peer review process). <i>Journal of International Business Studies</i>.
-
-Keener, S. K., Kepes, S., MacDaniel, X., McDaniel, M. A., Field, J. G., Bosco, F. A. (Manuscript title hidden to preserve anonymous peer review process). <i>Organizational Research Methods</i>. 
-
 **Published papers**
 
+Field, J. G., Bosco, F. A., Kriachy, D., Uggerslev, K. L., Geiger, M. K. (in press). More alike than different? A comparison of variance explained by cross-cultural models. <i>Journal of International Business Studies</i>. doi: [10.1057/s41267-021-00428-z](https://doi.org/10.1057/s41267-021-00428-z).
+ 
 Slemp, G., Field, J. G., Cho, A. S. H. (in press). A meta-analysis of autonomous and controlled forms of teacher motivation. <i>Journal of Vocational Behavior</i>. doi: [10.1016/j.jvb.2020.103459](https://doi.org/10.1016/j.jvb.2020.103459).
 
-Field, J. G., Bosco F. A., Kepes, S., (in press). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).
+Field, J. G., Bosco F. A., Kepes, S., (2021). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>, <i>36</i>,. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).
 
 Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (2020). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>, <i>3</i>, 124-137. doi: [10.1177/2515245919882693](https://doi.org/10.1177/2515245919882693).
 
