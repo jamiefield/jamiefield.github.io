@@ -14,7 +14,10 @@ Field, J. G., Bosco, F. A., Kriachy, D., Uggerslev, K. L., Geiger, M. K. (in pre
  
 Slemp, G., Field, J. G., Cho, A. S. H. (in press). A meta-analysis of autonomous and controlled forms of teacher motivation. <i>Journal of Vocational Behavior</i>. doi: [10.1016/j.jvb.2020.103459](https://doi.org/10.1016/j.jvb.2020.103459).
 
-Field, J. G., Bosco F. A., Kepes, S., (2021). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>, <i>36</i>,. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).
+Zhou, S. & Field, J. G. (in press). Many forces at play: Ethical dilemmas in academic research. <i>Industrial and Organizational Psychology<i/>.
+
+Field, J. G., Bosco F. A., Kepes, S., (2021). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>, <i>36</i>,. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).<br/>
+--Open-access software introduced in this paper can be found here: [metasen.shinyapps.io/gen1/](https://metasen.shinyapps.io/gen1/)
 
 Bosco, F. A., Field, J. G., Larsen, K. R., Chang, Y., Uggerslev, K. L., (2020). Advancing meta-analysis with knowledge management platforms: Using metaBUS in psychology. <i>Advancement in Methods and Practices in Psychological Science</i>, <i>3</i>, 124-137. doi: [10.1177/2515245919882693](https://doi.org/10.1177/2515245919882693).
 
