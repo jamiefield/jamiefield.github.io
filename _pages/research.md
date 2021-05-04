@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<a href="http://jamiefield.github.io/files/Field_CV_Feb2020.pdf?dl=0">Click here to view a copy of my CV</a>
+<a href="http://jamiefield.github.io/files/James G Field_CV_April2021.pdf?dl=0">Click here to view a copy of my CV</a>
 
 **Published papers**
 
