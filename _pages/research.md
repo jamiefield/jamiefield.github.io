@@ -14,7 +14,7 @@ Field, J. G., Bosco, F. A., Kriachy, D., Uggerslev, K. L., Geiger, M. K. (in pre
  
 Slemp, G., Field, J. G., Cho, A. S. H. (in press). A meta-analysis of autonomous and controlled forms of teacher motivation. <i>Journal of Vocational Behavior</i>. doi: [10.1016/j.jvb.2020.103459](https://doi.org/10.1016/j.jvb.2020.103459).
 
-Zhou, S. & Field, J. G. (in press). Many forces at play: Ethical dilemmas in academic research. <i>Industrial and Organizational Psychology<i/>.
+Zhou, S. & Field, J. G. (in press). Many forces at play: Ethical dilemmas in academic research. <i>Industrial and Organizational Psychology</i>.
 
 Field, J. G., Bosco F. A., Kepes, S., (2021). How trustworthy is our cumulative knowledge on turnover? <i>Journal of Business and Psychology</i>, <i>36</i>,. doi: [10.1007/s10869-020-09687-3](https://doi.org/10.1007/s10869-020-09687-3).<br/>
 --Open-access software introduced in this paper can be found here: [metasen.shinyapps.io/gen1/](https://metasen.shinyapps.io/gen1/)
